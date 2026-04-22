@@ -1,0 +1,20 @@
+TITLE: Remote Work and Individual Productivity: A Large-Scale Survey of Knowledge Workers
+
+AUTHORS: Chen, L., Patel, R., & Morrison, K.
+PUBLISHED IN: Journal of Organizational Behavior, 46(2), 112-134 (2024)
+
+METHODOLOGY: Cross-sectional survey of 12,450 knowledge workers across 38 companies
+
+ABSTRACT:
+This study examines the relationship between remote work arrangements and self-reported productivity among knowledge workers in the technology, finance, and consulting sectors. Using a validated productivity scale and controlling for demographic, organizational, and job-characteristic variables, we find that fully remote workers report 7.2% higher individual task productivity compared to fully in-office workers (p < 0.001). Hybrid workers (2-3 days remote) report the highest productivity gains at 11.8% (p < 0.001). However, remote workers also report 15.3% fewer spontaneous collaborative interactions per week. These findings suggest that while remote work enhances focused individual work, organizations should implement deliberate collaboration mechanisms to compensate for reduced informal interaction.
+
+KEY FINDINGS:
+  1. Fully remote workers report 7.2% higher individual task productivity
+  2. Hybrid workers report the highest gains at 11.8%
+  3. Remote workers have 15.3% fewer spontaneous collaborative interactions
+  4. Productivity gains are strongest for experienced workers (5+ years tenure)
+  5. No significant productivity difference by gender or age
+  6. Workers in individual contributor roles benefit most; managers show smaller gains
+
+CONCLUSIONS:
+Remote work enhances individual productivity for most knowledge workers, but the reduction in spontaneous collaboration requires intentional organizational design to maintain innovation and team cohesion. We recommend hybrid arrangements as the optimal balance.
