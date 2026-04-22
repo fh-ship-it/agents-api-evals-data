@@ -1,0 +1,19 @@
+FORM 1099-DIV: Dividends and Distributions — Tax Year 2024
+
+Payer: Vanguard Group Inc.
+Payer TIN: 23-1945930
+Payer Address: PO Box 982901, El Paso, TX 79998
+
+Recipient: John A. Smith
+Recipient SSN: XXX-XX-1234
+Account Number: XXXX-5678
+
+Box 1a - Total ordinary dividends:             $3,241.87
+Box 1b - Qualified dividends:                  $2,891.44
+Box 2a - Total capital gain distributions:     $456.22
+Box 2b - Unrecaptured Section 1250 gain:       $0.00
+Box 3  - Nondividend distributions:            $0.00
+Box 4  - Federal income tax withheld:          $0.00
+Box 5  - Section 199A dividends:               $0.00
+Box 7  - Foreign tax paid:                     $78.33
+Box 8  - Foreign country:                      Various

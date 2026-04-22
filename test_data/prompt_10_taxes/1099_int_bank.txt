@@ -1,0 +1,14 @@
+FORM 1099-INT: Interest Income — Tax Year 2024
+
+Payer: First National Bank
+Payer TIN: 12-3456789
+Payer Address: 500 Financial Center Drive, San Francisco, CA 94111
+
+Recipient: John A. Smith
+Recipient SSN: XXX-XX-1234
+
+Box 1 - Interest income:                      $1,847.23
+Box 2 - Early withdrawal penalty:             $0.00
+Box 3 - Interest on U.S. Savings Bonds:       $0.00
+Box 4 - Federal income tax withheld:           $0.00
+Box 8 - Tax-exempt interest:                   $0.00
