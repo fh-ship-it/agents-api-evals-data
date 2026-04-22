@@ -1,0 +1,139 @@
+MASTER SERVICES AGREEMENT
+
+This Master Services Agreement ("Agreement") is entered into as of January 15, 2025
+("Effective Date"), by and between:
+
+BUYER: Acme Corp, a Delaware corporation with its principal office at 100 Innovation Drive,
+San Francisco, CA 94105 ("Customer")
+
+VENDOR: CloudServe Solutions Inc., a Delaware corporation with its principal office at 2500
+Technology Boulevard, Austin, TX 78701 ("Provider")
+
+RECITALS
+WHEREAS, Provider offers cloud-based enterprise software solutions and related services;
+WHEREAS, Customer desires to engage Provider to provide such services subject to the terms
+and conditions set forth herein.
+
+NOW, THEREFORE, in consideration of the mutual covenants and agreements set forth herein,
+the parties agree as follows:
+
+1. DEFINITIONS
+1.1 "Services" means the cloud-based project management and collaboration platform
+    described in Exhibit A, including all updates and maintenance.
+1.2 "Customer Data" means all data submitted by Customer through the Services.
+1.3 "Derivative Works" means any modifications, enhancements, customizations, or
+    integrations developed in connection with or based upon the Services.
+1.4 "Confidential Information" means any non-public information disclosed by either party.
+
+2. SCOPE OF SERVICES
+2.1 Provider shall make the Services available to Customer on a software-as-a-service basis.
+2.2 Provider shall provide up to 500 user licenses as part of this Agreement.
+2.3 Provider shall provide standard email support during business hours (9 AM - 5 PM CT),
+    Monday through Friday, excluding federal holidays.
+2.4 Premium support (24/7 phone and chat) is available for an additional fee of $3,000/month.
+
+3. FEES AND PAYMENT
+3.1 Customer shall pay Provider a monthly fee of $15,000 ("Monthly Fee"), due within
+    thirty (30) days of invoice date.
+3.2 Provider may increase the Monthly Fee upon thirty (30) days' written notice to Customer.
+    Customer's continued use of the Services after such notice constitutes acceptance of the
+    new fee. [NOTE: Industry standard is typically 60-90 days notice with a cap on increases]
+3.3 Late payments shall accrue interest at a rate of 1.5% per month.
+3.4 All fees are exclusive of applicable taxes.
+
+4. TERM AND RENEWAL
+4.1 The initial term of this Agreement shall be three (3) years from the Effective Date
+    ("Initial Term").
+4.2 This Agreement shall automatically renew for successive one (1) year periods
+    ("Renewal Terms") unless either party provides written notice of non-renewal at least
+    ninety (90) days prior to the end of the then-current term.
+    [NOTE: 90-day notice period is unusually long; 30-60 days is standard]
+4.3 Early termination by Customer during the Initial Term shall require payment of all
+    remaining Monthly Fees for the balance of the Initial Term.
+
+5. SERVICE LEVEL AGREEMENT
+5.1 Provider guarantees 99.5% uptime for the Services, measured on a monthly basis,
+    excluding scheduled maintenance windows.
+5.2 Scheduled maintenance shall occur between 2:00 AM and 6:00 AM CT on Sundays.
+5.3 Service credits for downtime exceeding the SLA:
+    - 99.0% - 99.5%: 5% credit on Monthly Fee
+    - 98.0% - 99.0%: 10% credit on Monthly Fee
+    - Below 98.0%: 20% credit on Monthly Fee
+5.4 Service credits are Customer's sole and exclusive remedy for any failure to meet the SLA.
+5.5 Customer must request service credits within fifteen (15) days of the incident.
+
+6. DATA PROTECTION AND SECURITY
+6.1 Provider shall implement commercially reasonable security measures to protect
+    Customer Data, including encryption at rest (AES-256) and in transit (TLS 1.2+).
+6.2 Provider shall comply with SOC 2 Type II requirements.
+6.3 Customer Data shall be stored in the United States.
+6.4 Upon termination, Provider shall delete Customer Data within ninety (90) days unless
+    otherwise required by law. Customer may request an export of Customer Data within
+    thirty (30) days of termination.
+6.5 Provider may use anonymized, aggregated Customer Data for product improvement,
+    benchmarking, and marketing purposes.
+
+7. INTELLECTUAL PROPERTY
+7.1 Provider retains all rights, title, and interest in and to the Services, including all
+    intellectual property rights therein.
+7.2 All Derivative Works, including but not limited to custom integrations, plugins,
+    workflows, templates, and configurations developed by Customer or jointly by the
+    parties, shall be the sole property of Provider.
+    [NOTE: This is highly unusual. Custom integrations built by the buyer typically remain
+    the buyer's IP, or at minimum are jointly owned.]
+7.3 Customer retains all rights to Customer Data.
+7.4 Provider grants Customer a non-exclusive, non-transferable license to use the Services
+    during the term of this Agreement.
+
+8. LIMITATION OF LIABILITY
+8.1 IN NO EVENT SHALL EITHER PARTY'S TOTAL AGGREGATE LIABILITY UNDER THIS
+    AGREEMENT EXCEED THE FEES PAID BY CUSTOMER DURING THE ONE (1) MONTH
+    PERIOD IMMEDIATELY PRECEDING THE EVENT GIVING RISE TO THE CLAIM.
+    [NOTE: Liability cap of 1 month's fees ($15,000) is extremely low for a 3-year,
+    $540,000 contract. Industry standard is typically 12 months of fees.]
+8.2 NEITHER PARTY SHALL BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL,
+    CONSEQUENTIAL, OR PUNITIVE DAMAGES.
+8.3 The limitations in this Section 8 shall not apply to (a) breaches of Section 6
+    (Data Protection), (b) willful misconduct, or (c) indemnification obligations.
+
+9. INDEMNIFICATION
+9.1 Provider shall indemnify Customer against third-party claims alleging that the Services
+    infringe any intellectual property rights, provided Customer promptly notifies Provider
+    and provides reasonable cooperation.
+9.2 Customer shall indemnify Provider against third-party claims arising from Customer's
+    use of the Services in violation of this Agreement or applicable law.
+
+10. TERMINATION
+10.1 Either party may terminate this Agreement for cause if the other party materially
+     breaches this Agreement and fails to cure such breach within thirty (30) days of
+     written notice.
+10.2 Provider may suspend Services immediately upon notice if Customer fails to pay any
+     undisputed fees within sixty (60) days of the due date.
+10.3 Upon termination for any reason, Customer shall pay all fees accrued through the
+     effective date of termination.
+
+11. CONFIDENTIALITY
+11.1 Each party agrees to maintain the confidentiality of the other party's Confidential
+     Information for a period of five (5) years following disclosure.
+11.2 Confidential Information may be disclosed to employees and contractors with a
+     need to know, subject to obligations of confidentiality.
+
+12. GENERAL PROVISIONS
+12.1 Governing Law: This Agreement shall be governed by the laws of the State of Texas.
+12.2 Dispute Resolution: Any dispute shall first be subject to good-faith negotiation for
+     thirty (30) days, followed by binding arbitration in Austin, Texas.
+12.3 Assignment: Neither party may assign this Agreement without the other's prior written
+     consent, except in connection with a merger or acquisition.
+12.4 Force Majeure: Neither party shall be liable for delays caused by events beyond its
+     reasonable control.
+12.5 Entire Agreement: This Agreement constitutes the entire agreement between the parties.
+12.6 Amendments: This Agreement may only be modified in writing signed by both parties.
+12.7 Notices: All notices shall be in writing and delivered to the addresses set forth above.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the Effective Date.
+
+ACME CORP                          CLOUDSERVE SOLUTIONS INC.
+By: _________________________      By: _________________________
+Name: Sarah Chen                   Name: Robert Martinez
+Title: VP of Procurement           Title: Chief Revenue Officer
+Date: January 15, 2025             Date: January 15, 2025
