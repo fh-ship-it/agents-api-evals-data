@@ -1,0 +1,1602 @@
+[
+  {
+    "id": 1,
+    "department": "Sales",
+    "tenure_years": 7.5,
+    "satisfaction_1to10": 8,
+    "would_recommend": true,
+    "open_comment": null
+  },
+  {
+    "id": 2,
+    "department": "HR",
+    "tenure_years": 4.5,
+    "satisfaction_1to10": 5,
+    "would_recommend": true,
+    "open_comment": "Feeling burned out from constant on-call rotations."
+  },
+  {
+    "id": 3,
+    "department": "HR",
+    "tenure_years": 8.3,
+    "satisfaction_1to10": 4,
+    "would_recommend": true,
+    "open_comment": "Not enough headcount to handle the workload."
+  },
+  {
+    "id": 4,
+    "department": "Finance",
+    "tenure_years": 3.6,
+    "satisfaction_1to10": 7,
+    "would_recommend": true,
+    "open_comment": null
+  },
+  {
+    "id": 5,
+    "department": "Finance",
+    "tenure_years": 1.2,
+    "satisfaction_1to10": 4,
+    "would_recommend": true,
+    "open_comment": "Not enough headcount to handle the workload."
+  },
+  {
+    "id": 6,
+    "department": "Support",
+    "tenure_years": null,
+    "satisfaction_1to10": 4,
+    "would_recommend": false,
+    "open_comment": "Burnout is real - we need more people on the team."
+  },
+  {
+    "id": 7,
+    "department": "Sales",
+    "tenure_years": 1.8,
+    "satisfaction_1to10": 4,
+    "would_recommend": true,
+    "open_comment": "Feeling burned out from constant on-call rotations."
+  },
+  {
+    "id": 8,
+    "department": "Marketing",
+    "tenure_years": 1.9,
+    "satisfaction_1to10": 7,
+    "would_recommend": true,
+    "open_comment": "Management is transparent and supportive."
+  },
+  {
+    "id": 9,
+    "department": "Finance",
+    "tenure_years": 2.1,
+    "satisfaction_1to10": 4,
+    "would_recommend": true,
+    "open_comment": "Career progression is unclear."
+  },
+  {
+    "id": 10,
+    "department": "HR",
+    "tenure_years": 3.6,
+    "satisfaction_1to10": 7,
+    "would_recommend": false,
+    "open_comment": "Management is transparent and supportive."
+  },
+  {
+    "id": 11,
+    "department": "Engineering",
+    "tenure_years": 6.1,
+    "satisfaction_1to10": 9,
+    "would_recommend": true,
+    "open_comment": "Love the team culture and collaboration."
+  },
+  {
+    "id": 12,
+    "department": "Finance",
+    "tenure_years": 3.7,
+    "satisfaction_1to10": 7,
+    "would_recommend": true,
+    "open_comment": "My manager genuinely cares about my development."
+  },
+  {
+    "id": 13,
+    "department": "Engineering",
+    "tenure_years": 13.9,
+    "satisfaction_1to10": 5,
+    "would_recommend": true,
+    "open_comment": "Too many meetings, not enough focus time."
+  },
+  {
+    "id": 14,
+    "department": "Engineering",
+    "tenure_years": 14.6,
+    "satisfaction_1to10": 4,
+    "would_recommend": true,
+    "open_comment": "Compensation is below market rate."
+  },
+  {
+    "id": 15,
+    "department": "Sales",
+    "tenure_years": 5.1,
+    "satisfaction_1to10": 4,
+    "would_recommend": true,
+    "open_comment": "Work-life balance has gotten worse recently."
+  },
+  {
+    "id": 16,
+    "department": "Engineering",
+    "tenure_years": 9.8,
+    "satisfaction_1to10": 6,
+    "would_recommend": true,
+    "open_comment": "Feeling burned out from constant on-call rotations."
+  },
+  {
+    "id": 17,
+    "department": "Sales",
+    "tenure_years": 2.3,
+    "satisfaction_1to10": 8,
+    "would_recommend": true,
+    "open_comment": "Flexible hours make a huge difference."
+  },
+  {
+    "id": 18,
+    "department": "Sales",
+    "tenure_years": 2.7,
+    "satisfaction_1to10": 6,
+    "would_recommend": true,
+    "open_comment": "Feeling burned out from constant on-call rotations."
+  },
+  {
+    "id": 19,
+    "department": "Sales",
+    "tenure_years": 14.2,
+    "satisfaction_1to10": 6,
+    "would_recommend": false,
+    "open_comment": "Compensation is below market rate."
+  },
+  {
+    "id": 20,
+    "department": "Sales",
+    "tenure_years": 14.7,
+    "satisfaction_1to10": 6,
+    "would_recommend": false,
+    "open_comment": "Too many meetings, not enough focus time."
+  },
+  {
+    "id": 21,
+    "department": "Engineering",
+    "tenure_years": 5.5,
+    "satisfaction_1to10": 9,
+    "would_recommend": true,
+    "open_comment": "Great work-life balance here."
+  },
+  {
+    "id": 22,
+    "department": "Finance",
+    "tenure_years": 13.2,
+    "satisfaction_1to10": 9,
+    "would_recommend": false,
+    "open_comment": "Management is transparent and supportive."
+  },
+  {
+    "id": 23,
+    "department": "Support",
+    "tenure_years": 7.6,
+    "satisfaction_1to10": 5,
+    "would_recommend": false,
+    "open_comment": "The ticket volume is overwhelming and unsustainable."
+  },
+  {
+    "id": 24,
+    "department": "Finance",
+    "tenure_years": 8.5,
+    "satisfaction_1to10": 10,
+    "would_recommend": true,
+    "open_comment": "Excellent growth opportunities."
+  },
+  {
+    "id": 25,
+    "department": "Sales",
+    "tenure_years": 7.3,
+    "satisfaction_1to10": 6,
+    "would_recommend": true,
+    "open_comment": "Career progression is unclear."
+  },
+  {
+    "id": 26,
+    "department": "Sales",
+    "tenure_years": 14.5,
+    "satisfaction_1to10": 4,
+    "would_recommend": true,
+    "open_comment": "Work-life balance has gotten worse recently."
+  },
+  {
+    "id": 27,
+    "department": "Engineering",
+    "tenure_years": 6.0,
+    "satisfaction_1to10": 8,
+    "would_recommend": false,
+    "open_comment": "Flexible hours make a huge difference."
+  },
+  {
+    "id": 28,
+    "department": "HR",
+    "tenure_years": 7.5,
+    "satisfaction_1to10": 5,
+    "would_recommend": true,
+    "open_comment": "The tools we use are outdated and frustrating."
+  },
+  {
+    "id": 29,
+    "department": "Engineering",
+    "tenure_years": 9.1,
+    "satisfaction_1to10": 6,
+    "would_recommend": true,
+    "open_comment": "Communication between teams needs major improvement."
+  },
+  {
+    "id": 30,
+    "department": "Marketing",
+    "tenure_years": 7.5,
+    "satisfaction_1to10": 6,
+    "would_recommend": true,
+    "open_comment": "Work-life balance has gotten worse recently."
+  },
+  {
+    "id": 31,
+    "department": "Sales",
+    "tenure_years": 0.7,
+    "satisfaction_1to10": 7,
+    "would_recommend": true,
+    "open_comment": "Benefits package is top-notch."
+  },
+  {
+    "id": 32,
+    "department": "Support",
+    "tenure_years": 6.1,
+    "satisfaction_1to10": 3,
+    "would_recommend": true,
+    "open_comment": "Management doesnt understand the frontline pressure."
+  },
+  {
+    "id": 33,
+    "department": "Engineering",
+    "tenure_years": null,
+    "satisfaction_1to10": 8,
+    "would_recommend": true,
+    "open_comment": "Flexible hours make a huge difference."
+  },
+  {
+    "id": 34,
+    "department": "HR",
+    "tenure_years": 11.4,
+    "satisfaction_1to10": 8,
+    "would_recommend": false,
+    "open_comment": "My manager genuinely cares about my development."
+  },
+  {
+    "id": 35,
+    "department": "Finance",
+    "tenure_years": 9.9,
+    "satisfaction_1to10": 9,
+    "would_recommend": false,
+    "open_comment": "Excellent growth opportunities."
+  },
+  {
+    "id": 36,
+    "department": "Sales",
+    "tenure_years": 0.9,
+    "satisfaction_1to10": 3,
+    "would_recommend": true,
+    "open_comment": "Communication between teams needs major improvement."
+  },
+  {
+    "id": 37,
+    "department": "Marketing",
+    "tenure_years": 2.6,
+    "satisfaction_1to10": 7,
+    "would_recommend": true,
+    "open_comment": "Management is transparent and supportive."
+  },
+  {
+    "id": 38,
+    "department": "Engineering",
+    "tenure_years": 10.7,
+    "satisfaction_1to10": 8,
+    "would_recommend": true,
+    "open_comment": "Love the team culture and collaboration."
+  },
+  {
+    "id": 39,
+    "department": "HR",
+    "tenure_years": 2.9,
+    "satisfaction_1to10": 7,
+    "would_recommend": false,
+    "open_comment": "Really enjoy the challenging projects."
+  },
+  {
+    "id": 40,
+    "department": "HR",
+    "tenure_years": 6.5,
+    "satisfaction_1to10": 8,
+    "would_recommend": true,
+    "open_comment": "Love the team culture and collaboration."
+  },
+  {
+    "id": 41,
+    "department": "Engineering",
+    "tenure_years": 5.5,
+    "satisfaction_1to10": 7,
+    "would_recommend": true,
+    "open_comment": null
+  },
+  {
+    "id": 42,
+    "department": "Finance",
+    "tenure_years": null,
+    "satisfaction_1to10": 7,
+    "would_recommend": false,
+    "open_comment": "My manager genuinely cares about my development."
+  },
+  {
+    "id": 43,
+    "department": "Engineering",
+    "tenure_years": 6.6,
+    "satisfaction_1to10": 10,
+    "would_recommend": true,
+    "open_comment": "Really enjoy the challenging projects."
+  },
+  {
+    "id": 44,
+    "department": "Finance",
+    "tenure_years": 7.6,
+    "satisfaction_1to10": 6,
+    "would_recommend": true,
+    "open_comment": "Not enough headcount to handle the workload."
+  },
+  {
+    "id": 45,
+    "department": "Support",
+    "tenure_years": 3.4,
+    "satisfaction_1to10": 5,
+    "would_recommend": false,
+    "open_comment": "Burnout is real - we need more people on the team."
+  },
+  {
+    "id": 46,
+    "department": "Marketing",
+    "tenure_years": 2.1,
+    "satisfaction_1to10": 10,
+    "would_recommend": true,
+    "open_comment": "Love the team culture and collaboration."
+  },
+  {
+    "id": 47,
+    "department": "Marketing",
+    "tenure_years": 1.4,
+    "satisfaction_1to10": 6,
+    "would_recommend": true,
+    "open_comment": null
+  },
+  {
+    "id": 48,
+    "department": "Sales",
+    "tenure_years": 11.4,
+    "satisfaction_1to10": 4,
+    "would_recommend": true,
+    "open_comment": null
+  },
+  {
+    "id": 49,
+    "department": "HR",
+    "tenure_years": null,
+    "satisfaction_1to10": 7,
+    "would_recommend": false,
+    "open_comment": "Great work-life balance here."
+  },
+  {
+    "id": 50,
+    "department": "Support",
+    "tenure_years": 7.4,
+    "satisfaction_1to10": 1,
+    "would_recommend": false,
+    "open_comment": "No time for training or skill development."
+  },
+  {
+    "id": 51,
+    "department": "Marketing",
+    "tenure_years": 15.0,
+    "satisfaction_1to10": 4,
+    "would_recommend": true,
+    "open_comment": "Compensation is below market rate."
+  },
+  {
+    "id": 52,
+    "department": "Finance",
+    "tenure_years": 12.2,
+    "satisfaction_1to10": 5,
+    "would_recommend": false,
+    "open_comment": null
+  },
+  {
+    "id": 53,
+    "department": "Finance",
+    "tenure_years": 13.9,
+    "satisfaction_1to10": 8,
+    "would_recommend": true,
+    "open_comment": null
+  },
+  {
+    "id": 54,
+    "department": "Engineering",
+    "tenure_years": 5.8,
+    "satisfaction_1to10": 8,
+    "would_recommend": true,
+    "open_comment": "My manager genuinely cares about my development."
+  },
+  {
+    "id": 55,
+    "department": "HR",
+    "tenure_years": 14.8,
+    "satisfaction_1to10": 5,
+    "would_recommend": true,
+    "open_comment": "Compensation is below market rate."
+  },
+  {
+    "id": 56,
+    "department": "Engineering",
+    "tenure_years": 10.3,
+    "satisfaction_1to10": 5,
+    "would_recommend": false,
+    "open_comment": "Work-life balance has gotten worse recently."
+  },
+  {
+    "id": 57,
+    "department": "Support",
+    "tenure_years": 5.6,
+    "satisfaction_1to10": 2,
+    "would_recommend": false,
+    "open_comment": "No time for training or skill development."
+  },
+  {
+    "id": 58,
+    "department": "Finance",
+    "tenure_years": 3.3,
+    "satisfaction_1to10": 8,
+    "would_recommend": false,
+    "open_comment": null
+  },
+  {
+    "id": 59,
+    "department": "HR",
+    "tenure_years": 10.9,
+    "satisfaction_1to10": 4,
+    "would_recommend": false,
+    "open_comment": null
+  },
+  {
+    "id": 60,
+    "department": "Support",
+    "tenure_years": 13.2,
+    "satisfaction_1to10": 5,
+    "would_recommend": false,
+    "open_comment": "No time for training or skill development."
+  },
+  {
+    "id": 61,
+    "department": "Engineering",
+    "tenure_years": 4.0,
+    "satisfaction_1to10": 6,
+    "would_recommend": true,
+    "open_comment": "Not enough headcount to handle the workload."
+  },
+  {
+    "id": 62,
+    "department": "Engineering",
+    "tenure_years": 13.6,
+    "satisfaction_1to10": 5,
+    "would_recommend": true,
+    "open_comment": "Career progression is unclear."
+  },
+  {
+    "id": 63,
+    "department": "Finance",
+    "tenure_years": 13.5,
+    "satisfaction_1to10": 7,
+    "would_recommend": true,
+    "open_comment": null
+  },
+  {
+    "id": 64,
+    "department": "Sales",
+    "tenure_years": 5.3,
+    "satisfaction_1to10": 8,
+    "would_recommend": true,
+    "open_comment": "Love the team culture and collaboration."
+  },
+  {
+    "id": 65,
+    "department": "Finance",
+    "tenure_years": 11.3,
+    "satisfaction_1to10": 5,
+    "would_recommend": true,
+    "open_comment": "The tools we use are outdated and frustrating."
+  },
+  {
+    "id": 66,
+    "department": "Sales",
+    "tenure_years": 11.2,
+    "satisfaction_1to10": 6,
+    "would_recommend": true,
+    "open_comment": "Not enough headcount to handle the workload."
+  },
+  {
+    "id": 67,
+    "department": "HR",
+    "tenure_years": 14.3,
+    "satisfaction_1to10": 7,
+    "would_recommend": true,
+    "open_comment": "Great work-life balance here."
+  },
+  {
+    "id": 68,
+    "department": "Marketing",
+    "tenure_years": 5.1,
+    "satisfaction_1to10": 8,
+    "would_recommend": false,
+    "open_comment": "Management is transparent and supportive."
+  },
+  {
+    "id": 69,
+    "department": "HR",
+    "tenure_years": 2.0,
+    "satisfaction_1to10": 7,
+    "would_recommend": true,
+    "open_comment": null
+  },
+  {
+    "id": 70,
+    "department": "Support",
+    "tenure_years": 10.4,
+    "satisfaction_1to10": 4,
+    "would_recommend": true,
+    "open_comment": null
+  },
+  {
+    "id": 71,
+    "department": "Marketing",
+    "tenure_years": 12.1,
+    "satisfaction_1to10": 9,
+    "would_recommend": true,
+    "open_comment": "Benefits package is top-notch."
+  },
+  {
+    "id": 72,
+    "department": "Marketing",
+    "tenure_years": 8.8,
+    "satisfaction_1to10": 4,
+    "would_recommend": true,
+    "open_comment": "Career progression is unclear."
+  },
+  {
+    "id": 73,
+    "department": "Support",
+    "tenure_years": 1.4,
+    "satisfaction_1to10": 5,
+    "would_recommend": true,
+    "open_comment": "Burnout is real - we need more people on the team."
+  },
+  {
+    "id": 74,
+    "department": "Finance",
+    "tenure_years": 1.3,
+    "satisfaction_1to10": 7,
+    "would_recommend": false,
+    "open_comment": "Management is transparent and supportive."
+  },
+  {
+    "id": 75,
+    "department": "Support",
+    "tenure_years": 12.3,
+    "satisfaction_1to10": 7,
+    "would_recommend": false,
+    "open_comment": "Management is transparent and supportive."
+  },
+  {
+    "id": 76,
+    "department": "Engineering",
+    "tenure_years": 11.5,
+    "satisfaction_1to10": 6,
+    "would_recommend": true,
+    "open_comment": "Too many meetings, not enough focus time."
+  },
+  {
+    "id": 77,
+    "department": "Marketing",
+    "tenure_years": 12.9,
+    "satisfaction_1to10": 6,
+    "would_recommend": true,
+    "open_comment": "Communication between teams needs major improvement."
+  },
+  {
+    "id": 78,
+    "department": "Marketing",
+    "tenure_years": 10.8,
+    "satisfaction_1to10": 7,
+    "would_recommend": false,
+    "open_comment": "Management is transparent and supportive."
+  },
+  {
+    "id": 79,
+    "department": "HR",
+    "tenure_years": 4.7,
+    "satisfaction_1to10": 4,
+    "would_recommend": true,
+    "open_comment": null
+  },
+  {
+    "id": 80,
+    "department": "Sales",
+    "tenure_years": 12.9,
+    "satisfaction_1to10": 6,
+    "would_recommend": false,
+    "open_comment": null
+  },
+  {
+    "id": 81,
+    "department": "Sales",
+    "tenure_years": 10.4,
+    "satisfaction_1to10": 5,
+    "would_recommend": true,
+    "open_comment": "Feeling burned out from constant on-call rotations."
+  },
+  {
+    "id": 82,
+    "department": "Engineering",
+    "tenure_years": 8.0,
+    "satisfaction_1to10": 6,
+    "would_recommend": false,
+    "open_comment": "The tools we use are outdated and frustrating."
+  },
+  {
+    "id": 83,
+    "department": "Sales",
+    "tenure_years": 1.0,
+    "satisfaction_1to10": 7,
+    "would_recommend": true,
+    "open_comment": "My manager genuinely cares about my development."
+  },
+  {
+    "id": 84,
+    "department": "Marketing",
+    "tenure_years": 10.5,
+    "satisfaction_1to10": 5,
+    "would_recommend": true,
+    "open_comment": "Not enough headcount to handle the workload."
+  },
+  {
+    "id": 85,
+    "department": "Support",
+    "tenure_years": 4.5,
+    "satisfaction_1to10": 1,
+    "would_recommend": false,
+    "open_comment": "Dealing with angry customers all day is draining."
+  },
+  {
+    "id": 86,
+    "department": "Engineering",
+    "tenure_years": 7.9,
+    "satisfaction_1to10": 8,
+    "would_recommend": true,
+    "open_comment": null
+  },
+  {
+    "id": 87,
+    "department": "HR",
+    "tenure_years": 10.6,
+    "satisfaction_1to10": 7,
+    "would_recommend": false,
+    "open_comment": null
+  },
+  {
+    "id": 88,
+    "department": "HR",
+    "tenure_years": 8.8,
+    "satisfaction_1to10": 7,
+    "would_recommend": true,
+    "open_comment": null
+  },
+  {
+    "id": 89,
+    "department": "Engineering",
+    "tenure_years": 8.3,
+    "satisfaction_1to10": 9,
+    "would_recommend": true,
+    "open_comment": "Great work-life balance here."
+  },
+  {
+    "id": 90,
+    "department": "Support",
+    "tenure_years": 8.0,
+    "satisfaction_1to10": 3,
+    "would_recommend": false,
+    "open_comment": "The ticket volume is overwhelming and unsustainable."
+  },
+  {
+    "id": 91,
+    "department": "Sales",
+    "tenure_years": 3.1,
+    "satisfaction_1to10": 5,
+    "would_recommend": false,
+    "open_comment": "Communication between teams needs major improvement."
+  },
+  {
+    "id": 92,
+    "department": "Engineering",
+    "tenure_years": 3.5,
+    "satisfaction_1to10": 5,
+    "would_recommend": true,
+    "open_comment": "Too many meetings, not enough focus time."
+  },
+  {
+    "id": 93,
+    "department": "Engineering",
+    "tenure_years": 4.8,
+    "satisfaction_1to10": 6,
+    "would_recommend": true,
+    "open_comment": "Communication between teams needs major improvement."
+  },
+  {
+    "id": 94,
+    "department": "Support",
+    "tenure_years": null,
+    "satisfaction_1to10": 7,
+    "would_recommend": true,
+    "open_comment": "Really enjoy the challenging projects."
+  },
+  {
+    "id": 95,
+    "department": "Finance",
+    "tenure_years": 7.6,
+    "satisfaction_1to10": 6,
+    "would_recommend": true,
+    "open_comment": "Compensation is below market rate."
+  },
+  {
+    "id": 96,
+    "department": "HR",
+    "tenure_years": 3.9,
+    "satisfaction_1to10": 5,
+    "would_recommend": true,
+    "open_comment": "Too many meetings, not enough focus time."
+  },
+  {
+    "id": 97,
+    "department": "Sales",
+    "tenure_years": 3.6,
+    "satisfaction_1to10": 6,
+    "would_recommend": false,
+    "open_comment": "Communication between teams needs major improvement."
+  },
+  {
+    "id": 98,
+    "department": "Finance",
+    "tenure_years": 13.6,
+    "satisfaction_1to10": 6,
+    "would_recommend": true,
+    "open_comment": "Not enough headcount to handle the workload."
+  },
+  {
+    "id": 99,
+    "department": "Marketing",
+    "tenure_years": 2.6,
+    "satisfaction_1to10": 6,
+    "would_recommend": true,
+    "open_comment": "Too many meetings, not enough focus time."
+  },
+  {
+    "id": 100,
+    "department": "Finance",
+    "tenure_years": 12.4,
+    "satisfaction_1to10": 6,
+    "would_recommend": true,
+    "open_comment": "The tools we use are outdated and frustrating."
+  },
+  {
+    "id": 101,
+    "department": "Sales",
+    "tenure_years": 6.0,
+    "satisfaction_1to10": 5,
+    "would_recommend": true,
+    "open_comment": "Career progression is unclear."
+  },
+  {
+    "id": 102,
+    "department": "Engineering",
+    "tenure_years": 5.3,
+    "satisfaction_1to10": 7,
+    "would_recommend": true,
+    "open_comment": null
+  },
+  {
+    "id": 103,
+    "department": "Marketing",
+    "tenure_years": 12.1,
+    "satisfaction_1to10": 8,
+    "would_recommend": false,
+    "open_comment": "Love the team culture and collaboration."
+  },
+  {
+    "id": 104,
+    "department": "Support",
+    "tenure_years": 2.3,
+    "satisfaction_1to10": 6,
+    "would_recommend": false,
+    "open_comment": "Too many meetings, not enough focus time."
+  },
+  {
+    "id": 105,
+    "department": "HR",
+    "tenure_years": 8.2,
+    "satisfaction_1to10": 6,
+    "would_recommend": false,
+    "open_comment": "Too many meetings, not enough focus time."
+  },
+  {
+    "id": 106,
+    "department": "HR",
+    "tenure_years": 11.4,
+    "satisfaction_1to10": 6,
+    "would_recommend": true,
+    "open_comment": "The tools we use are outdated and frustrating."
+  },
+  {
+    "id": 107,
+    "department": "Support",
+    "tenure_years": 10.5,
+    "satisfaction_1to10": 5,
+    "would_recommend": false,
+    "open_comment": "Burnout is real - we need more people on the team."
+  },
+  {
+    "id": 108,
+    "department": "Sales",
+    "tenure_years": 14.6,
+    "satisfaction_1to10": 4,
+    "would_recommend": true,
+    "open_comment": "Career progression is unclear."
+  },
+  {
+    "id": 109,
+    "department": "Finance",
+    "tenure_years": 3.2,
+    "satisfaction_1to10": 8,
+    "would_recommend": true,
+    "open_comment": "My manager genuinely cares about my development."
+  },
+  {
+    "id": 110,
+    "department": "HR",
+    "tenure_years": 13.9,
+    "satisfaction_1to10": 5,
+    "would_recommend": true,
+    "open_comment": "Not enough headcount to handle the workload."
+  },
+  {
+    "id": 111,
+    "department": "Marketing",
+    "tenure_years": 1.8,
+    "satisfaction_1to10": 10,
+    "would_recommend": true,
+    "open_comment": null
+  },
+  {
+    "id": 112,
+    "department": "Finance",
+    "tenure_years": 4.6,
+    "satisfaction_1to10": 6,
+    "would_recommend": true,
+    "open_comment": "Feeling burned out from constant on-call rotations."
+  },
+  {
+    "id": 113,
+    "department": "Support",
+    "tenure_years": 2.5,
+    "satisfaction_1to10": 5,
+    "would_recommend": false,
+    "open_comment": "Management doesnt understand the frontline pressure."
+  },
+  {
+    "id": 114,
+    "department": "Finance",
+    "tenure_years": 0.6,
+    "satisfaction_1to10": 7,
+    "would_recommend": true,
+    "open_comment": "Benefits package is top-notch."
+  },
+  {
+    "id": 115,
+    "department": "Sales",
+    "tenure_years": 13.8,
+    "satisfaction_1to10": 6,
+    "would_recommend": false,
+    "open_comment": "Feeling burned out from constant on-call rotations."
+  },
+  {
+    "id": 116,
+    "department": "HR",
+    "tenure_years": 13.6,
+    "satisfaction_1to10": 5,
+    "would_recommend": false,
+    "open_comment": "Compensation is below market rate."
+  },
+  {
+    "id": 117,
+    "department": "Sales",
+    "tenure_years": 6.6,
+    "satisfaction_1to10": 6,
+    "would_recommend": true,
+    "open_comment": "Compensation is below market rate."
+  },
+  {
+    "id": 118,
+    "department": "Engineering",
+    "tenure_years": 12.9,
+    "satisfaction_1to10": 6,
+    "would_recommend": true,
+    "open_comment": "Work-life balance has gotten worse recently."
+  },
+  {
+    "id": 119,
+    "department": "Marketing",
+    "tenure_years": null,
+    "satisfaction_1to10": 8,
+    "would_recommend": true,
+    "open_comment": "Flexible hours make a huge difference."
+  },
+  {
+    "id": 120,
+    "department": "Sales",
+    "tenure_years": 13.5,
+    "satisfaction_1to10": 9,
+    "would_recommend": false,
+    "open_comment": "My manager genuinely cares about my development."
+  },
+  {
+    "id": 121,
+    "department": "Engineering",
+    "tenure_years": 5.3,
+    "satisfaction_1to10": 6,
+    "would_recommend": true,
+    "open_comment": "Feeling burned out from constant on-call rotations."
+  },
+  {
+    "id": 122,
+    "department": "Marketing",
+    "tenure_years": 7.6,
+    "satisfaction_1to10": 7,
+    "would_recommend": true,
+    "open_comment": null
+  },
+  {
+    "id": 123,
+    "department": "HR",
+    "tenure_years": 13.7,
+    "satisfaction_1to10": 6,
+    "would_recommend": false,
+    "open_comment": null
+  },
+  {
+    "id": 124,
+    "department": "Finance",
+    "tenure_years": 13.4,
+    "satisfaction_1to10": 6,
+    "would_recommend": true,
+    "open_comment": "Too many meetings, not enough focus time."
+  },
+  {
+    "id": 125,
+    "department": "Engineering",
+    "tenure_years": 6.9,
+    "satisfaction_1to10": 9,
+    "would_recommend": false,
+    "open_comment": null
+  },
+  {
+    "id": 126,
+    "department": "Finance",
+    "tenure_years": 3.2,
+    "satisfaction_1to10": 5,
+    "would_recommend": false,
+    "open_comment": null
+  },
+  {
+    "id": 127,
+    "department": "Support",
+    "tenure_years": 1.0,
+    "satisfaction_1to10": 5,
+    "would_recommend": true,
+    "open_comment": "No time for training or skill development."
+  },
+  {
+    "id": 128,
+    "department": "Finance",
+    "tenure_years": 10.4,
+    "satisfaction_1to10": 7,
+    "would_recommend": true,
+    "open_comment": null
+  },
+  {
+    "id": 129,
+    "department": "Support",
+    "tenure_years": 12.7,
+    "satisfaction_1to10": 5,
+    "would_recommend": false,
+    "open_comment": "The ticket volume is overwhelming and unsustainable."
+  },
+  {
+    "id": 130,
+    "department": "Engineering",
+    "tenure_years": null,
+    "satisfaction_1to10": 8,
+    "would_recommend": true,
+    "open_comment": "Great work-life balance here."
+  },
+  {
+    "id": 131,
+    "department": "Finance",
+    "tenure_years": 9.2,
+    "satisfaction_1to10": 6,
+    "would_recommend": false,
+    "open_comment": null
+  },
+  {
+    "id": 132,
+    "department": "Support",
+    "tenure_years": 2.7,
+    "satisfaction_1to10": 4,
+    "would_recommend": false,
+    "open_comment": "Burnout is real - we need more people on the team."
+  },
+  {
+    "id": 133,
+    "department": "Marketing",
+    "tenure_years": 14.9,
+    "satisfaction_1to10": 8,
+    "would_recommend": false,
+    "open_comment": "Flexible hours make a huge difference."
+  },
+  {
+    "id": 134,
+    "department": "Sales",
+    "tenure_years": 9.4,
+    "satisfaction_1to10": 3,
+    "would_recommend": true,
+    "open_comment": "Communication between teams needs major improvement."
+  },
+  {
+    "id": 135,
+    "department": "Sales",
+    "tenure_years": 4.5,
+    "satisfaction_1to10": 6,
+    "would_recommend": true,
+    "open_comment": "Communication between teams needs major improvement."
+  },
+  {
+    "id": 136,
+    "department": "Support",
+    "tenure_years": 8.1,
+    "satisfaction_1to10": 6,
+    "would_recommend": false,
+    "open_comment": "Career progression is unclear."
+  },
+  {
+    "id": 137,
+    "department": "Sales",
+    "tenure_years": 7.9,
+    "satisfaction_1to10": 6,
+    "would_recommend": true,
+    "open_comment": "Too many meetings, not enough focus time."
+  },
+  {
+    "id": 138,
+    "department": "Engineering",
+    "tenure_years": 5.1,
+    "satisfaction_1to10": 7,
+    "would_recommend": true,
+    "open_comment": null
+  },
+  {
+    "id": 139,
+    "department": "Engineering",
+    "tenure_years": 5.2,
+    "satisfaction_1to10": 9,
+    "would_recommend": true,
+    "open_comment": "Really enjoy the challenging projects."
+  },
+  {
+    "id": 140,
+    "department": "HR",
+    "tenure_years": 4.9,
+    "satisfaction_1to10": 7,
+    "would_recommend": false,
+    "open_comment": null
+  },
+  {
+    "id": 141,
+    "department": "Engineering",
+    "tenure_years": 2.4,
+    "satisfaction_1to10": 8,
+    "would_recommend": true,
+    "open_comment": "Benefits package is top-notch."
+  },
+  {
+    "id": 142,
+    "department": "Finance",
+    "tenure_years": 3.5,
+    "satisfaction_1to10": 7,
+    "would_recommend": true,
+    "open_comment": "Love the team culture and collaboration."
+  },
+  {
+    "id": 143,
+    "department": "Sales",
+    "tenure_years": 1.1,
+    "satisfaction_1to10": 4,
+    "would_recommend": true,
+    "open_comment": "Career progression is unclear."
+  },
+  {
+    "id": 144,
+    "department": "Sales",
+    "tenure_years": 5.5,
+    "satisfaction_1to10": 5,
+    "would_recommend": true,
+    "open_comment": "Career progression is unclear."
+  },
+  {
+    "id": 145,
+    "department": "HR",
+    "tenure_years": null,
+    "satisfaction_1to10": 3,
+    "would_recommend": false,
+    "open_comment": "Too many meetings, not enough focus time."
+  },
+  {
+    "id": 146,
+    "department": "HR",
+    "tenure_years": 13.7,
+    "satisfaction_1to10": 9,
+    "would_recommend": true,
+    "open_comment": null
+  },
+  {
+    "id": 147,
+    "department": "Support",
+    "tenure_years": 12.0,
+    "satisfaction_1to10": 4,
+    "would_recommend": false,
+    "open_comment": "Dealing with angry customers all day is draining."
+  },
+  {
+    "id": 148,
+    "department": "Finance",
+    "tenure_years": 14.6,
+    "satisfaction_1to10": 8,
+    "would_recommend": false,
+    "open_comment": "Flexible hours make a huge difference."
+  },
+  {
+    "id": 149,
+    "department": "Support",
+    "tenure_years": 14.6,
+    "satisfaction_1to10": 4,
+    "would_recommend": false,
+    "open_comment": "Management doesnt understand the frontline pressure."
+  },
+  {
+    "id": 150,
+    "department": "Support",
+    "tenure_years": 0.6,
+    "satisfaction_1to10": 3,
+    "would_recommend": false,
+    "open_comment": "Management doesnt understand the frontline pressure."
+  },
+  {
+    "id": 151,
+    "department": "Finance",
+    "tenure_years": 7.9,
+    "satisfaction_1to10": 6,
+    "would_recommend": true,
+    "open_comment": "Too many meetings, not enough focus time."
+  },
+  {
+    "id": 152,
+    "department": "Marketing",
+    "tenure_years": 3.7,
+    "satisfaction_1to10": 7,
+    "would_recommend": true,
+    "open_comment": "Really enjoy the challenging projects."
+  },
+  {
+    "id": 153,
+    "department": "Engineering",
+    "tenure_years": 4.5,
+    "satisfaction_1to10": 6,
+    "would_recommend": true,
+    "open_comment": null
+  },
+  {
+    "id": 154,
+    "department": "Engineering",
+    "tenure_years": 0.5,
+    "satisfaction_1to10": 7,
+    "would_recommend": true,
+    "open_comment": "Benefits package is top-notch."
+  },
+  {
+    "id": 155,
+    "department": "Marketing",
+    "tenure_years": 8.5,
+    "satisfaction_1to10": 6,
+    "would_recommend": true,
+    "open_comment": "The tools we use are outdated and frustrating."
+  },
+  {
+    "id": 156,
+    "department": "HR",
+    "tenure_years": null,
+    "satisfaction_1to10": 5,
+    "would_recommend": true,
+    "open_comment": "Too many meetings, not enough focus time."
+  },
+  {
+    "id": 157,
+    "department": "Sales",
+    "tenure_years": null,
+    "satisfaction_1to10": 10,
+    "would_recommend": true,
+    "open_comment": "Love the team culture and collaboration."
+  },
+  {
+    "id": 158,
+    "department": "Finance",
+    "tenure_years": 9.7,
+    "satisfaction_1to10": 6,
+    "would_recommend": true,
+    "open_comment": "Work-life balance has gotten worse recently."
+  },
+  {
+    "id": 159,
+    "department": "Sales",
+    "tenure_years": 9.6,
+    "satisfaction_1to10": 5,
+    "would_recommend": true,
+    "open_comment": "The tools we use are outdated and frustrating."
+  },
+  {
+    "id": 160,
+    "department": "Sales",
+    "tenure_years": 7.4,
+    "satisfaction_1to10": 4,
+    "would_recommend": true,
+    "open_comment": "Work-life balance has gotten worse recently."
+  },
+  {
+    "id": 161,
+    "department": "Sales",
+    "tenure_years": 8.8,
+    "satisfaction_1to10": 7,
+    "would_recommend": false,
+    "open_comment": "Management is transparent and supportive."
+  },
+  {
+    "id": 162,
+    "department": "Finance",
+    "tenure_years": 10.5,
+    "satisfaction_1to10": 6,
+    "would_recommend": false,
+    "open_comment": "Communication between teams needs major improvement."
+  },
+  {
+    "id": 163,
+    "department": "Engineering",
+    "tenure_years": 9.9,
+    "satisfaction_1to10": 9,
+    "would_recommend": true,
+    "open_comment": "Management is transparent and supportive."
+  },
+  {
+    "id": 164,
+    "department": "Finance",
+    "tenure_years": 2.1,
+    "satisfaction_1to10": 6,
+    "would_recommend": true,
+    "open_comment": null
+  },
+  {
+    "id": 165,
+    "department": "Finance",
+    "tenure_years": 11.7,
+    "satisfaction_1to10": 6,
+    "would_recommend": false,
+    "open_comment": "Feeling burned out from constant on-call rotations."
+  },
+  {
+    "id": 166,
+    "department": "Engineering",
+    "tenure_years": 10.8,
+    "satisfaction_1to10": 8,
+    "would_recommend": true,
+    "open_comment": "My manager genuinely cares about my development."
+  },
+  {
+    "id": 167,
+    "department": "HR",
+    "tenure_years": 5.0,
+    "satisfaction_1to10": 6,
+    "would_recommend": false,
+    "open_comment": "Career progression is unclear."
+  },
+  {
+    "id": 168,
+    "department": "Engineering",
+    "tenure_years": null,
+    "satisfaction_1to10": 6,
+    "would_recommend": true,
+    "open_comment": null
+  },
+  {
+    "id": 169,
+    "department": "HR",
+    "tenure_years": 12.6,
+    "satisfaction_1to10": 6,
+    "would_recommend": true,
+    "open_comment": null
+  },
+  {
+    "id": 170,
+    "department": "Sales",
+    "tenure_years": 3.8,
+    "satisfaction_1to10": 8,
+    "would_recommend": true,
+    "open_comment": "Flexible hours make a huge difference."
+  },
+  {
+    "id": 171,
+    "department": "Finance",
+    "tenure_years": 2.1,
+    "satisfaction_1to10": 7,
+    "would_recommend": false,
+    "open_comment": "Love the team culture and collaboration."
+  },
+  {
+    "id": 172,
+    "department": "Sales",
+    "tenure_years": 2.2,
+    "satisfaction_1to10": 9,
+    "would_recommend": true,
+    "open_comment": "Love the team culture and collaboration."
+  },
+  {
+    "id": 173,
+    "department": "Engineering",
+    "tenure_years": 8.2,
+    "satisfaction_1to10": 10,
+    "would_recommend": true,
+    "open_comment": "Flexible hours make a huge difference."
+  },
+  {
+    "id": 174,
+    "department": "Sales",
+    "tenure_years": 13.2,
+    "satisfaction_1to10": 8,
+    "would_recommend": true,
+    "open_comment": "My manager genuinely cares about my development."
+  },
+  {
+    "id": 175,
+    "department": "Finance",
+    "tenure_years": 13.7,
+    "satisfaction_1to10": 5,
+    "would_recommend": true,
+    "open_comment": "Feeling burned out from constant on-call rotations."
+  },
+  {
+    "id": 176,
+    "department": "Sales",
+    "tenure_years": 12.1,
+    "satisfaction_1to10": 6,
+    "would_recommend": true,
+    "open_comment": "Not enough headcount to handle the workload."
+  },
+  {
+    "id": 177,
+    "department": "Engineering",
+    "tenure_years": 4.5,
+    "satisfaction_1to10": 6,
+    "would_recommend": true,
+    "open_comment": null
+  },
+  {
+    "id": 178,
+    "department": "Sales",
+    "tenure_years": 10.6,
+    "satisfaction_1to10": 7,
+    "would_recommend": true,
+    "open_comment": "Benefits package is top-notch."
+  },
+  {
+    "id": 179,
+    "department": "Sales",
+    "tenure_years": 4.1,
+    "satisfaction_1to10": 7,
+    "would_recommend": false,
+    "open_comment": "My manager genuinely cares about my development."
+  },
+  {
+    "id": 180,
+    "department": "HR",
+    "tenure_years": 8.9,
+    "satisfaction_1to10": 4,
+    "would_recommend": false,
+    "open_comment": "Career progression is unclear."
+  },
+  {
+    "id": 181,
+    "department": "Finance",
+    "tenure_years": 3.4,
+    "satisfaction_1to10": 6,
+    "would_recommend": true,
+    "open_comment": "Compensation is below market rate."
+  },
+  {
+    "id": 182,
+    "department": "HR",
+    "tenure_years": 5.7,
+    "satisfaction_1to10": 6,
+    "would_recommend": true,
+    "open_comment": "Communication between teams needs major improvement."
+  },
+  {
+    "id": 183,
+    "department": "Marketing",
+    "tenure_years": 8.5,
+    "satisfaction_1to10": 7,
+    "would_recommend": true,
+    "open_comment": "Flexible hours make a huge difference."
+  },
+  {
+    "id": 184,
+    "department": "Sales",
+    "tenure_years": 10.6,
+    "satisfaction_1to10": 6,
+    "would_recommend": false,
+    "open_comment": null
+  },
+  {
+    "id": 185,
+    "department": "Finance",
+    "tenure_years": 5.9,
+    "satisfaction_1to10": 7,
+    "would_recommend": true,
+    "open_comment": "Love the team culture and collaboration."
+  },
+  {
+    "id": 186,
+    "department": "Support",
+    "tenure_years": 1.6,
+    "satisfaction_1to10": 6,
+    "would_recommend": true,
+    "open_comment": null
+  },
+  {
+    "id": 187,
+    "department": "HR",
+    "tenure_years": 11.6,
+    "satisfaction_1to10": 4,
+    "would_recommend": false,
+    "open_comment": "Communication between teams needs major improvement."
+  },
+  {
+    "id": 188,
+    "department": "Finance",
+    "tenure_years": 6.9,
+    "satisfaction_1to10": 3,
+    "would_recommend": true,
+    "open_comment": "Feeling burned out from constant on-call rotations."
+  },
+  {
+    "id": 189,
+    "department": "Marketing",
+    "tenure_years": 9.8,
+    "satisfaction_1to10": 6,
+    "would_recommend": true,
+    "open_comment": "Communication between teams needs major improvement."
+  },
+  {
+    "id": 190,
+    "department": "HR",
+    "tenure_years": 7.1,
+    "satisfaction_1to10": 7,
+    "would_recommend": true,
+    "open_comment": "Really enjoy the challenging projects."
+  },
+  {
+    "id": 191,
+    "department": "HR",
+    "tenure_years": 6.6,
+    "satisfaction_1to10": 8,
+    "would_recommend": true,
+    "open_comment": "Love the team culture and collaboration."
+  },
+  {
+    "id": 192,
+    "department": "HR",
+    "tenure_years": 1.3,
+    "satisfaction_1to10": 4,
+    "would_recommend": false,
+    "open_comment": "Not enough headcount to handle the workload."
+  },
+  {
+    "id": 193,
+    "department": "Finance",
+    "tenure_years": 9.8,
+    "satisfaction_1to10": 9,
+    "would_recommend": true,
+    "open_comment": "Management is transparent and supportive."
+  },
+  {
+    "id": 194,
+    "department": "Engineering",
+    "tenure_years": 1.6,
+    "satisfaction_1to10": 8,
+    "would_recommend": true,
+    "open_comment": "Benefits package is top-notch."
+  },
+  {
+    "id": 195,
+    "department": "Engineering",
+    "tenure_years": 2.0,
+    "satisfaction_1to10": 5,
+    "would_recommend": true,
+    "open_comment": "Feeling burned out from constant on-call rotations."
+  },
+  {
+    "id": 196,
+    "department": "Marketing",
+    "tenure_years": 1.7,
+    "satisfaction_1to10": 7,
+    "would_recommend": false,
+    "open_comment": "Great work-life balance here."
+  },
+  {
+    "id": 197,
+    "department": "HR",
+    "tenure_years": 1.2,
+    "satisfaction_1to10": 7,
+    "would_recommend": false,
+    "open_comment": null
+  },
+  {
+    "id": 198,
+    "department": "Marketing",
+    "tenure_years": 3.3,
+    "satisfaction_1to10": 8,
+    "would_recommend": true,
+    "open_comment": "Benefits package is top-notch."
+  },
+  {
+    "id": 199,
+    "department": "Sales",
+    "tenure_years": 6.4,
+    "satisfaction_1to10": 6,
+    "would_recommend": false,
+    "open_comment": "Not enough headcount to handle the workload."
+  },
+  {
+    "id": 200,
+    "department": "HR",
+    "tenure_years": 9.0,
+    "satisfaction_1to10": 7,
+    "would_recommend": true,
+    "open_comment": "Really enjoy the challenging projects."
+  }
+]
