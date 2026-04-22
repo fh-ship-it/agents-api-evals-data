@@ -1,0 +1,983 @@
+<?xml version='1.0' encoding='utf-8'?>
+<customers exported="2024-12-15T10:30:00Z">
+  <customer id="43">
+    <firstName>Ryan</firstName>
+    <lastName>Nelson</lastName>
+    <email>ryan.nelson@gmail.com</email>
+    <phone>(525) 629-3595</phone>
+    <address>
+      <street>7266 Oak St</street>
+      <city>New York</city>
+      <state>NY</state>
+      <zipCode>23051</zipCode>
+    </address>
+    <status>active</status>
+    <createdDate>12/26/19</createdDate>
+  </customer>
+  <customer id="32">
+    <firstName>Heather</firstName>
+    <lastName>Young</lastName>
+    <email>heather.young@yahoo.com</email>
+    <phone>(381) 666-3664</phone>
+    <address>
+      <street>8992 Elm Ave</street>
+      <city>Richmond</city>
+      <state>VA</state>
+      <zipCode>60012</zipCode>
+    </address>
+    <status>active</status>
+    <createdDate>05/28/23</createdDate>
+  </customer>
+  <customer id="47">
+    <firstName>Gary</firstName>
+    <lastName>Campbell</lastName>
+    <email>gary.campbell@yahoo.com</email>
+    <phone>(664) 749-6867</phone>
+    <address>
+      <street>3156 Oak St</street>
+      <city>Columbus</city>
+      <state>OH</state>
+      <zipCode>95527</zipCode>
+    </address>
+    <status>deleted</status>
+    <createdDate>04/10/19</createdDate>
+  </customer>
+  <customer id="30">
+    <firstName>Katherine</firstName>
+    <lastName>Robinson</lastName>
+    <email>katherine.robinson@outlook.com</email>
+    <phone>(327) 816-9177</phone>
+    <address>
+      <street>7571 Elm Ave</street>
+      <city>Detroit</city>
+      <state>MI</state>
+      <zipCode>63790</zipCode>
+    </address>
+    <status>active</status>
+    <createdDate>06/12/24</createdDate>
+  </customer>
+  <customer id="59">
+    <firstName>Justin</firstName>
+    <lastName>Rodriguez</lastName>
+    <email>justin.rodriguez@yahoo.com</email>
+    <phone>(867) 401-8652</phone>
+    <address>
+      <street>8223 Elm St</street>
+      <city>Baltimore</city>
+      <state>MD</state>
+      <zipCode>77194</zipCode>
+    </address>
+    <status>deleted</status>
+    <createdDate>07/07/20</createdDate>
+  </customer>
+  <customer id="41">
+    <firstName>Jeffrey</firstName>
+    <lastName>Green</lastName>
+    <email>jeffrey.green@yahoo.com</email>
+    <phone>(785) 540-4962</phone>
+    <address>
+      <street>9205 Elm St</street>
+      <city>San Francisco</city>
+      <state>CA</state>
+      <zipCode>35252</zipCode>
+    </address>
+    <status>deleted</status>
+    <createdDate>10/21/21</createdDate>
+  </customer>
+  <customer id="15">
+    <firstName>Thomas</firstName>
+    <lastName>Anderson</lastName>
+    <email>thomas.anderson@outlook.com</email>
+    <phone>(986) 543-4268</phone>
+    <address>
+      <street>6678 Pine St</street>
+      <city>Boston</city>
+      <state>MA</state>
+      <zipCode>18450</zipCode>
+    </address>
+    <status>active</status>
+    <createdDate>06/11/22</createdDate>
+  </customer>
+  <customer id="89">
+    <firstName>Jose</firstName>
+    <lastName>Hill</lastName>
+    <email>jose.hill@yahoo.com</email>
+    <phone>(902) 414-2672</phone>
+    <address>
+      <street>2513 Elm St</street>
+      <city>Charlotte</city>
+      <state>NC</state>
+      <zipCode>24047</zipCode>
+    </address>
+    <status>active</status>
+    <createdDate>12/04/19</createdDate>
+  </customer>
+  <customer id="31">
+    <firstName>Andrew</firstName>
+    <lastName>Walker</lastName>
+    <email>andrew.walker@gmail.com</email>
+    <phone>(755) 536-9571</phone>
+    <address>
+      <street>5602 Main St</street>
+      <city>Newark</city>
+      <state>NJ</state>
+      <zipCode>33044</zipCode>
+    </address>
+    <status>active</status>
+    <createdDate>08/14/20</createdDate>
+  </customer>
+  <customer id="57">
+    <firstName>Larry</firstName>
+    <lastName>Miller</lastName>
+    <email>larry.miller@outlook.com</email>
+    <phone>(317) 322-1483</phone>
+    <address>
+      <street>5466 Oak St</street>
+      <city>Indianapolis</city>
+      <state>IN</state>
+      <zipCode>38804</zipCode>
+    </address>
+    <status>deleted</status>
+    <createdDate>02/24/23</createdDate>
+  </customer>
+  <customer id="53">
+    <firstName>Jonathan</firstName>
+    <lastName>Williams</lastName>
+    <email>jonathan.williams@yahoo.com</email>
+    <phone>(661) 927-3639</phone>
+    <address>
+      <street>3045 Pine St</street>
+      <city>Seattle</city>
+      <state>WA</state>
+      <zipCode>11329</zipCode>
+    </address>
+    <status>active</status>
+    <createdDate>03/22/22</createdDate>
+  </customer>
+  <customer id="98">
+    <firstName>Sharon</firstName>
+    <lastName>Mitchell</lastName>
+    <email>sharon.mitchell@yahoo.com</email>
+    <phone>(408) 455-5718</phone>
+    <address>
+      <street>9869 Pine Ave</street>
+      <city>St. Louis</city>
+      <state>MO</state>
+      <zipCode>10407</zipCode>
+    </address>
+    <status>active</status>
+    <createdDate>02/06/22</createdDate>
+  </customer>
+  <customer id="11">
+    <firstName>William</firstName>
+    <lastName>Hernandez</lastName>
+    <email>william.hernandez@yahoo.com</email>
+    <phone>(660) 369-1699</phone>
+    <address>
+      <street>1034 Cedar St</street>
+      <city>Newark</city>
+      <state>NJ</state>
+      <zipCode>42088</zipCode>
+    </address>
+    <status>active</status>
+    <createdDate>12/27/22</createdDate>
+  </customer>
+  <customer id="46">
+    <firstName>Andrea</firstName>
+    <lastName>Rivera</lastName>
+    <email>andrea.rivera@gmail.com</email>
+    <phone>(924) 656-2290</phone>
+    <address>
+      <street>9468 Elm Ave</street>
+      <city>Philadelphia</city>
+      <state>PA</state>
+      <zipCode>13314</zipCode>
+    </address>
+    <status>active</status>
+    <createdDate>12/24/19</createdDate>
+  </customer>
+  <customer id="72">
+    <firstName>Catherine</firstName>
+    <lastName>Perez</lastName>
+    <email>catherine.perez@outlook.com</email>
+    <phone>(592) 342-1348</phone>
+    <address>
+      <street>4770 Main Ave</street>
+      <city>Richmond</city>
+      <state>VA</state>
+      <zipCode>94366</zipCode>
+    </address>
+    <status>active</status>
+    <createdDate>10/01/21</createdDate>
+  </customer>
+  <customer id="65">
+    <firstName>Benjamin</firstName>
+    <lastName>Anderson</lastName>
+    <email>benjamin.anderson@yahoo.com</email>
+    <phone>(530) 539-4046</phone>
+    <address>
+      <street>5961 Oak St</street>
+      <city>Chicago</city>
+      <state>IL</state>
+      <zipCode>19521</zipCode>
+    </address>
+    <status>active</status>
+    <createdDate>04/22/20</createdDate>
+  </customer>
+  <customer id="10">
+    <firstName>Jennifer</firstName>
+    <lastName>Martinez</lastName>
+    <email>jennifer.martinez@gmail.com</email>
+    <phone>(651) 475-9396</phone>
+    <address>
+      <street>5238 Pine Ave</street>
+      <city>Detroit</city>
+      <state>MI</state>
+      <zipCode>20943</zipCode>
+    </address>
+    <status>active</status>
+    <createdDate>11/14/22</createdDate>
+  </customer>
+  <customer id="93">
+    <firstName>Nathan</firstName>
+    <lastName>Nelson</lastName>
+    <email>nathan.nelson@outlook.com</email>
+    <phone>(300) 150-7267</phone>
+    <address>
+      <street>7023 Oak St</street>
+      <city>Seattle</city>
+      <state>WA</state>
+      <zipCode>48535</zipCode>
+    </address>
+    <status>deleted</status>
+    <createdDate>04/13/19</createdDate>
+  </customer>
+  <customer id="62">
+    <firstName>Kimberly</firstName>
+    <lastName>Lopez</lastName>
+    <email>kimberly.lopez@yahoo.com</email>
+    <phone>(526) 737-2762</phone>
+    <address>
+      <street>6375 Elm Ave</street>
+      <city>Austin</city>
+      <state>TX</state>
+      <zipCode>36177</zipCode>
+    </address>
+    <status>active</status>
+    <createdDate>10/12/20</createdDate>
+  </customer>
+  <customer id="78">
+    <firstName>Courtney</firstName>
+    <lastName>Ramirez</lastName>
+    <email>courtney.ramirez@outlook.com</email>
+    <phone>(941) 546-4708</phone>
+    <address>
+      <street>2888 Main Ave</street>
+      <city>St. Louis</city>
+      <state>MO</state>
+      <zipCode>35055</zipCode>
+    </address>
+    <status>active</status>
+    <createdDate>12/26/20</createdDate>
+  </customer>
+  <customer id="97">
+    <firstName>Peter</firstName>
+    <lastName>Campbell</lastName>
+    <email>peter.campbell@gmail.com</email>
+    <phone>(614) 501-7437</phone>
+    <address>
+      <street>1759 Oak St</street>
+      <city>Indianapolis</city>
+      <state>IN</state>
+      <zipCode>45162</zipCode>
+    </address>
+    <status>active</status>
+    <createdDate>08/07/19</createdDate>
+  </customer>
+  <customer id="58">
+    <firstName>Melissa</firstName>
+    <lastName>Davis</lastName>
+    <email>melissa.davis@gmail.com</email>
+    <phone>(329) 374-5483</phone>
+    <address>
+      <street>7990 Oak Ave</street>
+      <city>St. Louis</city>
+      <state>MO</state>
+      <zipCode>22054</zipCode>
+    </address>
+    <status>active</status>
+    <createdDate>06/23/22</createdDate>
+  </customer>
+  <customer id="54">
+    <firstName>Natalie</firstName>
+    <lastName>Brown</lastName>
+    <email>natalie.brown@outlook.com</email>
+    <phone>(846) 721-1515</phone>
+    <address>
+      <street>2020 Pine Ave</street>
+      <city>Phoenix</city>
+      <state>AZ</state>
+      <zipCode>55453</zipCode>
+    </address>
+    <status>active</status>
+    <createdDate>08/20/22</createdDate>
+  </customer>
+  <customer id="80">
+    <firstName>Angela</firstName>
+    <lastName>Robinson</lastName>
+    <email>angela.robinson@yahoo.com</email>
+    <phone>(470) 437-7218</phone>
+    <address>
+      <street>4522 Cedar Ave</street>
+      <city>Milwaukee</city>
+      <state>WI</state>
+      <zipCode>32326</zipCode>
+    </address>
+    <status>active</status>
+    <createdDate>03/19/21</createdDate>
+  </customer>
+  <customer id="73">
+    <firstName>Alexander</firstName>
+    <lastName>Thompson</lastName>
+    <email>alexander.thompson@gmail.com</email>
+    <phone>(491) 234-7599</phone>
+    <address>
+      <street>706 Maple St</street>
+      <city>Seattle</city>
+      <state>WA</state>
+      <zipCode>79142</zipCode>
+    </address>
+    <status>active</status>
+    <createdDate>01/11/23</createdDate>
+  </customer>
+  <customer id="17">
+    <firstName>Charles</firstName>
+    <lastName>Taylor</lastName>
+    <email>charles.taylor@yahoo.com</email>
+    <phone>(681) 249-4497</phone>
+    <address>
+      <street>5345 Maple St</street>
+      <city>Indianapolis</city>
+      <state>IN</state>
+      <zipCode>14105</zipCode>
+    </address>
+    <status>active</status>
+    <createdDate>10/25/21</createdDate>
+  </customer>
+  <customer id="69">
+    <firstName>Gregory</firstName>
+    <lastName>Jackson</lastName>
+    <email>gregory.jackson@outlook.com</email>
+    <phone>(822) 926-2225</phone>
+    <address>
+      <street>9503 Cedar St</street>
+      <city>Charlotte</city>
+      <state>NC</state>
+      <zipCode>65279</zipCode>
+    </address>
+    <status>active</status>
+    <createdDate>11/25/21</createdDate>
+  </customer>
+  <customer id="99">
+    <firstName>John</firstName>
+    <lastName>Carter</lastName>
+    <email>john.carter@outlook.com</email>
+    <phone>(917) 737-8811</phone>
+    <address>
+      <street>5102 Cedar St</street>
+      <city>Baltimore</city>
+      <state>MD</state>
+      <zipCode>41276</zipCode>
+    </address>
+    <status>active</status>
+    <createdDate>03/11/23</createdDate>
+  </customer>
+  <customer id="90">
+    <firstName>Teresa</firstName>
+    <lastName>Flores</lastName>
+    <email>teresa.flores@outlook.com</email>
+    <phone>(216) 571-4064</phone>
+    <address>
+      <street>4470 Main Ave</street>
+      <city>Detroit</city>
+      <state>MI</state>
+      <zipCode>72421</zipCode>
+    </address>
+    <status>active</status>
+    <createdDate>11/17/21</createdDate>
+  </customer>
+  <customer id="18">
+    <firstName>Nicole</firstName>
+    <lastName>Moore</lastName>
+    <email>nicole.moore@outlook.com</email>
+    <phone>(263) 927-6922</phone>
+    <address>
+      <street>7146 Elm Ave</street>
+      <city>St. Louis</city>
+      <state>MO</state>
+      <zipCode>37973</zipCode>
+    </address>
+    <status>deleted</status>
+    <createdDate>01/07/24</createdDate>
+  </customer>
+  <customer id="34">
+    <firstName>Michelle</firstName>
+    <lastName>King</lastName>
+    <email>michelle.king@gmail.com</email>
+    <phone>(306) 191-1269</phone>
+    <address>
+      <street>6838 Main Ave</street>
+      <city>Phoenix</city>
+      <state>AZ</state>
+      <zipCode>75064</zipCode>
+    </address>
+    <status>active</status>
+    <createdDate>12/25/22</createdDate>
+  </customer>
+  <customer id="37">
+    <firstName>Timothy</firstName>
+    <lastName>Torres</lastName>
+    <email>timothy.torres@gmail.com</email>
+    <phone>(680) 227-6744</phone>
+    <address>
+      <street>7701 Elm St</street>
+      <city>Indianapolis</city>
+      <state>IN</state>
+      <zipCode>94523</zipCode>
+    </address>
+    <status>active</status>
+    <createdDate>12/26/23</createdDate>
+  </customer>
+  <customer id="44">
+    <firstName>Laura</firstName>
+    <lastName>Baker</lastName>
+    <email>laura.baker@yahoo.com</email>
+    <phone>(716) 221-7422</phone>
+    <address>
+      <street>4363 Maple Ave</street>
+      <city>Miami</city>
+      <state>FL</state>
+      <zipCode>30847</zipCode>
+    </address>
+    <status>active</status>
+    <createdDate>06/07/18</createdDate>
+  </customer>
+  <customer id="95">
+    <firstName>Henry</firstName>
+    <lastName>Hall</lastName>
+    <email>henry.hall@yahoo.com</email>
+    <phone>(861) 354-2819</phone>
+    <address>
+      <street>3697 Main St</street>
+      <city>Boston</city>
+      <state>MA</state>
+      <zipCode>16964</zipCode>
+    </address>
+    <status>active</status>
+    <createdDate>01/19/20</createdDate>
+  </customer>
+  <customer id="16">
+    <firstName>Ashley</firstName>
+    <lastName>Thomas</lastName>
+    <email>ashley.thomas@gmail.com</email>
+    <phone>(697) 317-8802</phone>
+    <address>
+      <street>1973 Pine Ave</street>
+      <city>Nashville</city>
+      <state>TN</state>
+      <zipCode>69582</zipCode>
+    </address>
+    <status>active</status>
+    <createdDate>01/18/19</createdDate>
+  </customer>
+  <customer id="88">
+    <firstName>Anna</firstName>
+    <lastName>Nguyen</lastName>
+    <email>anna.nguyen@gmail.com</email>
+    <phone>(835) 625-4326</phone>
+    <address>
+      <street>6656 Oak Ave</street>
+      <city>Atlanta</city>
+      <state>GA</state>
+      <zipCode>18996</zipCode>
+    </address>
+    <status>active</status>
+    <createdDate>05/14/19</createdDate>
+  </customer>
+  <customer id="86">
+    <firstName>Jordan</firstName>
+    <lastName>Scott</lastName>
+    <email>jordan.scott@yahoo.com</email>
+    <phone>(413) 933-9644</phone>
+    <address>
+      <street>8520 Pine Ave</street>
+      <city>Philadelphia</city>
+      <state>PA</state>
+      <zipCode>50871</zipCode>
+    </address>
+    <status>deleted</status>
+    <createdDate>12/15/23</createdDate>
+  </customer>
+  <customer id="27">
+    <firstName>Mark</firstName>
+    <lastName>Clark</lastName>
+    <email>mark.clark@outlook.com</email>
+    <phone>(328) 749-8361</phone>
+    <address>
+      <street>9576 Main St</street>
+      <city>Columbus</city>
+      <state>OH</state>
+      <zipCode>14782</zipCode>
+    </address>
+    <status>active</status>
+    <createdDate>04/24/19</createdDate>
+  </customer>
+  <customer id="33">
+    <firstName>Brian</firstName>
+    <lastName>Allen</lastName>
+    <email>brian.allen@outlook.com</email>
+    <phone>(905) 796-8167</phone>
+    <address>
+      <street>4740 Cedar St</street>
+      <city>Seattle</city>
+      <state>WA</state>
+      <zipCode>91313</zipCode>
+    </address>
+    <status>active</status>
+    <createdDate>02/03/24</createdDate>
+  </customer>
+  <customer id="84">
+    <firstName>Allison</firstName>
+    <lastName>King</lastName>
+    <email>allison.king@outlook.com</email>
+    <phone>(561) 671-4971</phone>
+    <address>
+      <street>3473 Cedar Ave</street>
+      <city>Miami</city>
+      <state>FL</state>
+      <zipCode>20225</zipCode>
+    </address>
+    <status>active</status>
+    <createdDate>02/16/18</createdDate>
+  </customer>
+  <customer id="74">
+    <firstName>Diana</firstName>
+    <lastName>White</lastName>
+    <email>diana.white@yahoo.com</email>
+    <phone>(216) 171-8698</phone>
+    <address>
+      <street>1658 Elm Ave</street>
+      <city>Phoenix</city>
+      <state>AZ</state>
+      <zipCode>49452</zipCode>
+    </address>
+    <status>active</status>
+    <createdDate>05/11/24</createdDate>
+  </customer>
+  <customer id="76">
+    <firstName>Vanessa</firstName>
+    <lastName>Sanchez</lastName>
+    <email>vanessa.sanchez@gmail.com</email>
+    <phone>(505) 813-8447</phone>
+    <address>
+      <street>8182 Cedar Ave</street>
+      <city>Nashville</city>
+      <state>TN</state>
+      <zipCode>25913</zipCode>
+    </address>
+    <status>deleted</status>
+    <createdDate>06/20/18</createdDate>
+  </customer>
+  <customer id="67">
+    <firstName>Samuel</firstName>
+    <lastName>Taylor</lastName>
+    <email>samuel.taylor@gmail.com</email>
+    <phone>(536) 318-8624</phone>
+    <address>
+      <street>9397 Pine St</street>
+      <city>Columbus</city>
+      <state>OH</state>
+      <zipCode>40493</zipCode>
+    </address>
+    <status>active</status>
+    <createdDate>09/03/21</createdDate>
+  </customer>
+  <customer id="91">
+    <firstName>Adam</firstName>
+    <lastName>Green</lastName>
+    <email>adam.green@gmail.com</email>
+    <phone>(560) 371-2938</phone>
+    <address>
+      <street>9116 Main St</street>
+      <city>Newark</city>
+      <state>NJ</state>
+      <zipCode>56455</zipCode>
+    </address>
+    <status>deleted</status>
+    <createdDate>07/07/19</createdDate>
+  </customer>
+  <customer id="50">
+    <firstName>Kayla</firstName>
+    <lastName>Roberts</lastName>
+    <email>kayla.roberts@yahoo.com</email>
+    <phone>(309) 245-5627</phone>
+    <address>
+      <street>4392 Oak Ave</street>
+      <city>Detroit</city>
+      <state>MI</state>
+      <zipCode>22160</zipCode>
+    </address>
+    <status>active</status>
+    <createdDate>02/16/24</createdDate>
+  </customer>
+  <customer id="13">
+    <firstName>Richard</firstName>
+    <lastName>Gonzalez</lastName>
+    <email>richard.gonzalez@gmail.com</email>
+    <phone>(274) 328-7360</phone>
+    <address>
+      <street>7673 Cedar St</street>
+      <city>Seattle</city>
+      <state>WA</state>
+      <zipCode>22255</zipCode>
+    </address>
+    <status>deleted</status>
+    <createdDate>06/15/21</createdDate>
+  </customer>
+  <customer id="12">
+    <firstName>Amanda</firstName>
+    <lastName>Lopez</lastName>
+    <email>amanda.lopez@outlook.com</email>
+    <phone>(208) 258-2725</phone>
+    <address>
+      <street>4862 Elm Ave</street>
+      <city>Richmond</city>
+      <state>VA</state>
+      <zipCode>30736</zipCode>
+    </address>
+    <status>active</status>
+    <createdDate>10/13/24</createdDate>
+  </customer>
+  <customer id="77">
+    <firstName>Raymond</firstName>
+    <lastName>Clark</lastName>
+    <email>raymond.clark@yahoo.com</email>
+    <phone>(229) 329-1783</phone>
+    <address>
+      <street>270 Oak St</street>
+      <city>Indianapolis</city>
+      <state>IN</state>
+      <zipCode>23780</zipCode>
+    </address>
+    <status>active</status>
+    <createdDate>06/28/23</createdDate>
+  </customer>
+  <customer id="1">
+    <firstName>John</firstName>
+    <lastName>Smith</lastName>
+    <email>john.smith@gmail.com</email>
+    <phone>(365) 255-8587</phone>
+    <address>
+      <street>1390 Cedar St</street>
+      <city>San Francisco</city>
+      <state>CA</state>
+      <zipCode>22227</zipCode>
+    </address>
+    <status>active</status>
+    <createdDate>12/08/19</createdDate>
+  </customer>
+  <customer id="85">
+    <firstName>Tyler</firstName>
+    <lastName>Wright</lastName>
+    <email>tyler.wright@gmail.com</email>
+    <phone>(417) 113-4541</phone>
+    <address>
+      <street>7770 Elm St</street>
+      <city>Chicago</city>
+      <state>IL</state>
+      <zipCode>34630</zipCode>
+    </address>
+    <status>active</status>
+    <createdDate>08/04/20</createdDate>
+  </customer>
+  <customer id="400">
+    <firstName>Frank</firstName>
+    <lastName>Lee</lastName>
+    <email>frank.lee@example.net</email>
+    <phone>+12520794127</phone>
+    <address>
+      <street>270 River Rd</street>
+      <city>Portland</city>
+      <state>OR</state>
+      <zipCode>97201</zipCode>
+    </address>
+    <status>active</status>
+    <createdDate>2023-09-23</createdDate>
+  </customer>
+  <customer id="401">
+    <firstName>Catherine</firstName>
+    <lastName>Perez</lastName>
+    <email>catherine.perez@example.net</email>
+    <phone>+15996867159</phone>
+    <address>
+      <street>761 River Rd</street>
+      <city>Portland</city>
+      <state>OR</state>
+      <zipCode>97201</zipCode>
+    </address>
+    <status>deleted</status>
+    <createdDate>2023-02-05</createdDate>
+  </customer>
+  <customer id="402">
+    <firstName>Alexander</firstName>
+    <lastName>Thompson</lastName>
+    <email>alexander.thompson@example.net</email>
+    <phone>+15736307103</phone>
+    <address>
+      <street>854 River Rd</street>
+      <city>Portland</city>
+      <state>OR</state>
+      <zipCode>97201</zipCode>
+    </address>
+    <status>active</status>
+    <createdDate>2023-07-01</createdDate>
+  </customer>
+  <customer id="403">
+    <firstName>Diana</firstName>
+    <lastName>White</lastName>
+    <email>diana.white@example.net</email>
+    <phone>+14965737446</phone>
+    <address>
+      <street>75 River Rd</street>
+      <city>Portland</city>
+      <state>OR</state>
+      <zipCode>97201</zipCode>
+    </address>
+    <status>active</status>
+    <createdDate>2023-03-17</createdDate>
+  </customer>
+  <customer id="404">
+    <firstName>Patrick</firstName>
+    <lastName>Harris</lastName>
+    <email>patrick.harris@example.net</email>
+    <phone>+15947465754</phone>
+    <address>
+      <street>926 River Rd</street>
+      <city>Portland</city>
+      <state>OR</state>
+      <zipCode>97201</zipCode>
+    </address>
+    <status>active</status>
+    <createdDate>2023-07-12</createdDate>
+  </customer>
+  <customer id="405">
+    <firstName>Vanessa</firstName>
+    <lastName>Sanchez</lastName>
+    <email>vanessa.sanchez@example.net</email>
+    <phone>+12549416403</phone>
+    <address>
+      <street>714 River Rd</street>
+      <city>Portland</city>
+      <state>OR</state>
+      <zipCode>97201</zipCode>
+    </address>
+    <status>active</status>
+    <createdDate>2023-09-08</createdDate>
+  </customer>
+  <customer id="406">
+    <firstName>Raymond</firstName>
+    <lastName>Clark</lastName>
+    <email>raymond.clark@example.net</email>
+    <phone>+15059955891</phone>
+    <address>
+      <street>122 River Rd</street>
+      <city>Portland</city>
+      <state>OR</state>
+      <zipCode>97201</zipCode>
+    </address>
+    <status>active</status>
+    <createdDate>2023-06-27</createdDate>
+  </customer>
+  <customer id="407">
+    <firstName>Courtney</firstName>
+    <lastName>Ramirez</lastName>
+    <email>courtney.ramirez@example.net</email>
+    <phone>+15860410604</phone>
+    <address>
+      <street>606 River Rd</street>
+      <city>Portland</city>
+      <state>OR</state>
+      <zipCode>97201</zipCode>
+    </address>
+    <status>active</status>
+    <createdDate>2023-10-20</createdDate>
+  </customer>
+  <customer id="408">
+    <firstName>Jack</firstName>
+    <lastName>Lewis</lastName>
+    <email>jack.lewis@example.net</email>
+    <phone>+16759853584</phone>
+    <address>
+      <street>740 River Rd</street>
+      <city>Portland</city>
+      <state>OR</state>
+      <zipCode>97201</zipCode>
+    </address>
+    <status>active</status>
+    <createdDate>2023-01-03</createdDate>
+  </customer>
+  <customer id="409">
+    <firstName>Angela</firstName>
+    <lastName>Robinson</lastName>
+    <email>angela.robinson@example.net</email>
+    <phone>+19469877607</phone>
+    <address>
+      <street>364 River Rd</street>
+      <city>Portland</city>
+      <state>OR</state>
+      <zipCode>97201</zipCode>
+    </address>
+    <status>active</status>
+    <createdDate>2023-08-14</createdDate>
+  </customer>
+  <customer id="410">
+    <firstName>Dennis</firstName>
+    <lastName>Walker</lastName>
+    <email>dennis.walker@example.net</email>
+    <phone>+14711412799</phone>
+    <address>
+      <street>759 River Rd</street>
+      <city>Portland</city>
+      <state>OR</state>
+      <zipCode>97201</zipCode>
+    </address>
+    <status>active</status>
+    <createdDate>2023-07-10</createdDate>
+  </customer>
+  <customer id="411">
+    <firstName>Christine</firstName>
+    <lastName>Young</lastName>
+    <email>christine.young@example.net</email>
+    <phone>+15256135194</phone>
+    <address>
+      <street>717 River Rd</street>
+      <city>Portland</city>
+      <state>OR</state>
+      <zipCode>97201</zipCode>
+    </address>
+    <status>active</status>
+    <createdDate>2023-03-24</createdDate>
+  </customer>
+  <customer id="412">
+    <firstName>Jerry</firstName>
+    <lastName>Allen</lastName>
+    <email>jerry.allen@example.net</email>
+    <phone>+17084892385</phone>
+    <address>
+      <street>785 River Rd</street>
+      <city>Portland</city>
+      <state>OR</state>
+      <zipCode>97201</zipCode>
+    </address>
+    <status>active</status>
+    <createdDate>2023-10-27</createdDate>
+  </customer>
+  <customer id="413">
+    <firstName>Allison</firstName>
+    <lastName>King</lastName>
+    <email>allison.king@example.net</email>
+    <phone>+12361883138</phone>
+    <address>
+      <street>918 River Rd</street>
+      <city>Portland</city>
+      <state>OR</state>
+      <zipCode>97201</zipCode>
+    </address>
+    <status>deleted</status>
+    <createdDate>2023-01-19</createdDate>
+  </customer>
+  <customer id="414">
+    <firstName>Tyler</firstName>
+    <lastName>Wright</lastName>
+    <email>tyler.wright@example.net</email>
+    <phone>+14549132943</phone>
+    <address>
+      <street>691 River Rd</street>
+      <city>Portland</city>
+      <state>OR</state>
+      <zipCode>97201</zipCode>
+    </address>
+    <status>active</status>
+    <createdDate>2023-11-15</createdDate>
+  </customer>
+  <customer id="415">
+    <firstName>Jordan</firstName>
+    <lastName>Scott</lastName>
+    <email>jordan.scott@example.net</email>
+    <phone>+13631411435</phone>
+    <address>
+      <street>450 River Rd</street>
+      <city>Portland</city>
+      <state>OR</state>
+      <zipCode>97201</zipCode>
+    </address>
+    <status>active</status>
+    <createdDate>2023-03-17</createdDate>
+  </customer>
+  <customer id="416">
+    <firstName>Aaron</firstName>
+    <lastName>Torres</lastName>
+    <email>aaron.torres@example.net</email>
+    <phone>+19400233687</phone>
+    <address>
+      <street>287 River Rd</street>
+      <city>Portland</city>
+      <state>OR</state>
+      <zipCode>97201</zipCode>
+    </address>
+    <status>active</status>
+    <createdDate>2023-02-08</createdDate>
+  </customer>
+  <customer id="417">
+    <firstName>Anna</firstName>
+    <lastName>Nguyen</lastName>
+    <email>anna.nguyen@example.net</email>
+    <phone>+13279112222</phone>
+    <address>
+      <street>350 River Rd</street>
+      <city>Portland</city>
+      <state>OR</state>
+      <zipCode>97201</zipCode>
+    </address>
+    <status>active</status>
+    <createdDate>2023-01-19</createdDate>
+  </customer>
+  <customer id="418">
+    <firstName>Jose</firstName>
+    <lastName>Hill</lastName>
+    <email>jose.hill@example.net</email>
+    <phone>+18520385810</phone>
+    <address>
+      <street>538 River Rd</street>
+      <city>Portland</city>
+      <state>OR</state>
+      <zipCode>97201</zipCode>
+    </address>
+    <status>active</status>
+    <createdDate>2023-10-17</createdDate>
+  </customer>
+  <customer id="419">
+    <firstName>Teresa</firstName>
+    <lastName>Flores</lastName>
+    <email>teresa.flores@example.net</email>
+    <phone>+19922210671</phone>
+    <address>
+      <street>437 River Rd</street>
+      <city>Portland</city>
+      <state>OR</state>
+      <zipCode>97201</zipCode>
+    </address>
+    <status>active</status>
+    <createdDate>2023-05-11</createdDate>
+  </customer>
+</customers>

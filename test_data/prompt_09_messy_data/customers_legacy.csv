@@ -1,0 +1,101 @@
+CUST_ID|FIRST_NAME|LAST_NAME|EMAIL|PHONE|ADDRESS|CITY|STATE|ZIP|CREATED_DATE
+1|John|Smith|john.smith @gmail.com|(365) 255-8587|1390 Cedar St|San Francisco|CA|22227|12/08/19
+2|JANE|Johnson|jane.johnson@yahoo.com|(897) 769-3307|2738 Maple Ave|Austin|TX|77672|12/20/23
+3|Robert|Williams|robert.williams@outlook.com|(735) 887-6593|7431 Oak St|New York|NY|54436|05/12/22
+4|Emily|Brown |emily.brown@gmail.com|(641) 140-7350|4017 Oak Ave|Miami|FL|90004|10/03/19
+5|Michael|Jones|michael.jones@yahoo.com|(780) 742-9151|1695 Main St|Chicago|IL|28693|05/18/24
+6|Sarah|Garcia|sarah.garcia@outlook.com|(289) 610-2541|7551 Pine Ave|Philadelphia|PA|32245|05/06/18
+7|DAVID|Miller|david.miller@gmail.com|(486) 690-6952|5889 Main St|Columbus|OH|19323|03/23/24
+8|LISA|Davis|lisa.davis@yahoo.com|(671) 364-8753|4294 Elm Ave|Atlanta|GA|95235|03/04/22
+9|James|Rodriguez|james.rodriguez@outlook.com|(699) 140-6955|4796 Elm St|Charlotte|NC|63612|10/22/19
+10|Jennifer|Martinez|jennifer.martinez@gmail.com|(651) 475-9396|5238 Pine Ave|Detroit|MI|20943|11/14/22
+11|William|Hernandez|william.hernandez@yahoo.com|(660) 369-1699|1034 Cedar St|Newark|NJ|42088|12/27/22
+12|Amanda|Lopez |amanda.lopez@outlook.com|(208) 258-2725|4862 Elm Ave|Richmond|VA|30736|10/13/24
+13|Richard|Gonzalez|richard.gonzalez@gmail.com|(274) 328-7360|7673 Cedar St|Seattle|WA|22255|06/15/21
+14|Jessica|Wilson|jessica.wilson@yahoo.com|(857) 647-8616|1887 Main Ave|Phoenix|AZ|33628|12/04/21
+15|Thomas|Anderson |thomas.anderson@outlook.com|(986) 543-4268|6678 Pine St|Boston|MA|18450|06/11/22
+16|Ashley|Thomas|ashley.thomas@gmail.com|(697) 317-8802|1973 Pine Ave|Nashville|TN|69582|01/18/19
+17|Charles|Taylor|charles.taylor@yahoo.com|(681) 249-4497|5345 Maple St|Indianapolis|IN|14105|10/25/21
+18|NICOLE|Moore|nicole.moore@outlook.com|(263) 927-6922|7146 Elm Ave|St. Louis|MO|37973|01/07/24
+19|Daniel|Jackson|daniel.jackson@gmail.com|(223) 876-7929|4521 Pine St|Baltimore|MD|93320|03/03/19
+20|MEGAN|Martin |megan.martin@yahoo.com|(270) 380-7636|1438 Pine Ave|Milwaukee|WI|69168|07/17/19
+21|Christopher|Lee |christopher.lee@outlook.com|(885) 365-4015|980 Main St|San Francisco|CA|66168|06/25/20
+22|Lauren|Perez|lauren.perez @gmail.com|(368) 303-6722|6966 Elm Ave|Austin|TX|72324|09/23/24
+23|Matthew|Thompson|matthew.thompson@yahoo.com|(364) 813-8156|5911 Cedar St|New York|NY|84752|07/27/18
+24|STEPHANIE|White |stephanie.white@outlook.com|(774) 901-4253|1374 Cedar Ave|Miami|FL|97551|10/20/19
+25|ANTHONY|Harris|anthony.harris@gmail.com|(531) 780-6185|332 Oak St|Chicago|IL|70117|03/16/24
+26|Rachel|Sanchez|rachel.sanchez@yahoo.com|(524) 216-7658|4405 Maple Ave|Philadelphia|PA|10481|08/27/24
+27|MARK|Clark|mark.clark@outlook.com|(328) 749-8361|9576 Main St|Columbus|OH|14782|04/24/19
+28|Samantha|Ramirez|samantha.ramirez@gmail.com|(630) 813-9947|2821 Maple Ave|Atlanta|GA|59487|04/12/19
+29|Steven|Lewis|steven.lewis@yahoo.com|(395) 795-1235|6166 Pine St|Charlotte|NC|12122|05/10/22
+30|Katherine|Robinson|katherine.robinson@outlook.com|(327) 816-9177|7571 Elm Ave|Detroit|MI|63790|06/12/24
+31|ANDREW|Walker|andrew.walker@gmail.com|(755) 536-9571|5602 Main St|Newark|NJ|33044|08/14/20
+32|Heather|Young|heather.young@yahoo.com|(381) 666-3664|8992 Elm Ave|Richmond|VA|60012|05/28/23
+33|Brian|Allen|brian.allen@outlook.com|(905) 796-8167|4740 Cedar St|Seattle|WA|91313|02/03/24
+34|MICHELLE|King|michelle.king @gmail.com|(306) 191-1269|6838 Main Ave|Phoenix|AZ|75064|12/25/22
+35|Kevin|Wright |kevin.wright@yahoo.com|(757) 202-8276|8347 Maple St|Boston|MA|14277|11/10/24
+36|Amber|Scott|amber.scott@outlook.com|(630) 316-4651|7548 Maple Ave|Nashville|TN|59948|02/07/24
+37|TIMOTHY|Torres|timothy.torres@gmail.com|(680) 227-6744|7701 Elm St|Indianapolis|IN|94523|12/26/23
+38|BRITTANY|Nguyen|brittany.nguyen@yahoo.com|(605) 107-7138|3768 Maple Ave|St. Louis|MO|47172|05/22/20
+39|Jason|Hill|jason.hill @outlook.com|(514) 958-7794|4057 Main St|Baltimore|MD|64336|01/01/18
+40|CHRISTINA|Flores |christina.flores@gmail.com|(357) 909-7134|8602 Cedar Ave|Milwaukee|WI|88636|06/11/19
+41|Jeffrey|Green|jeffrey.green@yahoo.com|(785) 540-4962|9205 Elm St|San Francisco|CA|35252|10/21/21
+42|TIFFANY|Adams|tiffany.adams@outlook.com|(252) 920-8030|2211 Cedar Ave|Austin|TX|61172|12/06/21
+43|Ryan|Nelson|ryan.nelson@gmail.com|(525) 629-3595|7266 Oak St|New York|NY|23051|12/26/19
+44|Laura|Baker|laura.baker @yahoo.com|(716) 221-7422|4363 Maple Ave|Miami|FL|30847|06/07/18
+45|Jacob|Hall|jacob.hall@outlook.com|(295) 126-8166|289 Cedar St|Chicago|IL|87763|03/01/22
+46|ANDREA|Rivera|andrea.rivera@gmail.com|(924) 656-2290|9468 Elm Ave|Philadelphia|PA|13314|12/24/19
+47|Gary|Campbell|gary.campbell@yahoo.com|(664) 749-6867|3156 Oak St|Columbus|OH|95527|04/10/19
+48|Hannah|Mitchell|hannah.mitchell@outlook.com|(748) 960-5018|6294 Pine Ave|Atlanta|GA|96410|01/09/18
+49|NICHOLAS|Carter|nicholas.carter @gmail.com|(347) 742-1379|9592 Main St|Charlotte|NC|24540|08/20/18
+50|Kayla|Roberts|kayla.roberts@yahoo.com|(309) 245-5627|4392 Oak Ave|Detroit|MI|22160|02/16/24
+51|Eric|Smith |eric.smith@outlook.com|(570) 958-4407|6502 Main St|Newark|NJ|74361|01/14/18
+52|Victoria|Johnson|victoria.johnson@gmail.com|(698) 740-2250|3545 Cedar Ave|Richmond|VA|65038|07/11/23
+53|JONATHAN|Williams |jonathan.williams@yahoo.com|(661) 927-3639|3045 Pine St|Seattle|WA|11329|03/22/22
+54|NATALIE|Brown|natalie.brown@outlook.com|(846) 721-1515|2020 Pine Ave|Phoenix|AZ|55453|08/20/22
+55|Stephen|Jones|stephen.jones@gmail.com|(759) 105-3595|8648 Cedar St|Boston|MA|43357|02/07/22
+56|REBECCA|Garcia|rebecca.garcia@yahoo.com|(230) 648-1377|8586 Maple Ave|Nashville|TN|29968|04/28/20
+57|LARRY|Miller|larry.miller@outlook.com|(317) 322-1483|5466 Oak St|Indianapolis|IN|38804|02/24/23
+58|MELISSA|Davis|melissa.davis@gmail.com|(329) 374-5483|7990 Oak Ave|St. Louis|MO|22054|06/23/22
+59|JUSTIN|Rodriguez|justin.rodriguez@yahoo.com|(867) 401-8652|8223 Elm St|Baltimore|MD|77194|07/07/20
+60|Danielle|Martinez|danielle.martinez@outlook.com|(377) 302-5605|6536 Main Ave|Milwaukee|WI|86499|10/10/19
+61|Scott|Hernandez|scott.hernandez @gmail.com|(410) 839-8992|7201 Elm St|San Francisco|CA|65540|10/24/20
+62|Kimberly|Lopez |kimberly.lopez@yahoo.com|(526) 737-2762|6375 Elm Ave|Austin|TX|36177|10/12/20
+63|Brandon|Gonzalez|brandon.gonzalez@outlook.com|(847) 939-2052|7463 Oak St|New York|NY|14424|09/09/22
+64|CRYSTAL|Wilson |crystal.wilson@gmail.com|(619) 400-9691|5871 Elm Ave|Miami|FL|13924|02/06/24
+65|Benjamin|Anderson|benjamin.anderson@yahoo.com|(530) 539-4046|5961 Oak St|Chicago|IL|19521|04/22/20
+66|MARIA|Thomas|maria.thomas@outlook.com|(580) 248-6151|2103 Main Ave|Philadelphia|PA|51758|12/01/23
+67|Samuel|Taylor|samuel.taylor@gmail.com|(536) 318-8624|9397 Pine St|Columbus|OH|40493|09/03/21
+68|Patricia|Moore |patricia.moore@yahoo.com|(490) 716-4476|8738 Oak Ave|Atlanta|GA|23489|09/09/23
+69|Gregory|Jackson|gregory.jackson@outlook.com|(822) 926-2225|9503 Cedar St|Charlotte|NC|65279|11/25/21
+70|ELIZABETH|Martin|elizabeth.martin@gmail.com|(525) 932-6244|3346 Oak Ave|Detroit|MI|16509|08/16/18
+71|Frank|Lee|frank.lee@yahoo.com|(481) 531-2953|2133 Elm St|Newark|NJ|32431|10/11/22
+72|Catherine|Perez|catherine.perez@outlook.com|(592) 342-1348|4770 Main Ave|Richmond|VA|94366|10/01/21
+73|ALEXANDER|Thompson|alexander.thompson@gmail.com|(491) 234-7599|706 Maple St|Seattle|WA|79142|01/11/23
+74|Diana|White|diana.white@yahoo.com|(216) 171-8698|1658 Elm Ave|Phoenix|AZ|49452|05/11/24
+75|Patrick|Harris|patrick.harris@outlook.com|(554) 509-2306|9216 Pine St|Boston|MA|74725|10/02/21
+76|Vanessa|Sanchez|vanessa.sanchez@gmail.com|(505) 813-8447|8182 Cedar Ave|Nashville|TN|25913|06/20/18
+77|RAYMOND|Clark|raymond.clark@yahoo.com|(229) 329-1783|270 Oak St|Indianapolis|IN|23780|06/28/23
+78|Courtney|Ramirez|courtney.ramirez@outlook.com|(941) 546-4708|2888 Main Ave|St. Louis|MO|35055|12/26/20
+79|Jack|Lewis|jack.lewis@gmail.com|(750) 105-1860|4354 Main St|Baltimore|MD|24523|01/10/18
+80|Angela|Robinson|angela.robinson@yahoo.com|(470) 437-7218|4522 Cedar Ave|Milwaukee|WI|32326|03/19/21
+81|DENNIS|Walker|dennis.walker@outlook.com|(322) 229-6231|2524 Maple St|San Francisco|CA|64171|11/15/23
+82|CHRISTINE|Young|christine.young@gmail.com|(325) 634-9644|4040 Maple Ave|Austin|TX|72642|11/16/20
+83|Jerry|Allen|jerry.allen@yahoo.com|(529) 891-8908|3800 Main St|New York|NY|44578|05/23/18
+84|Allison|King |allison.king@outlook.com|(561) 671-4971|3473 Cedar Ave|Miami|FL|20225|02/16/18
+85|Tyler|Wright|tyler.wright@gmail.com|(417) 113-4541|7770 Elm St|Chicago|IL|34630|08/04/20
+86|Jordan|Scott|jordan.scott@yahoo.com|(413) 933-9644|8520 Pine Ave|Philadelphia|PA|50871|12/15/23
+87|AARON|Torres|aaron.torres@outlook.com|(357) 968-9265|1831 Oak St|Columbus|OH|38676|06/13/21
+88|Anna|Nguyen |anna.nguyen@gmail.com|(835) 625-4326|6656 Oak Ave|Atlanta|GA|18996|05/14/19
+89|JOSE|Hill|jose.hill @yahoo.com|(902) 414-2672|2513 Elm St|Charlotte|NC|24047|12/04/19
+90|Teresa|Flores|teresa.flores@outlook.com|(216) 571-4064|4470 Main Ave|Detroit|MI|72421|11/17/21
+91|Adam|Green|adam.green@gmail.com|(560) 371-2938|9116 Main St|Newark|NJ|56455|07/07/19
+92|Monica|Adams|monica.adams@yahoo.com|(606) 614-8059|8421 Pine Ave|Richmond|VA|16967|08/09/20
+93|Nathan|Nelson |nathan.nelson@outlook.com|(300) 150-7267|7023 Oak St|Seattle|WA|48535|04/13/19
+94|Sandra|Baker|sandra.baker@gmail.com|(808) 382-9676|8187 Maple Ave|Phoenix|AZ|66828|02/22/18
+95|Henry|Hall|henry.hall@yahoo.com|(861) 354-2819|3697 Main St|Boston|MA|16964|01/19/20
+96|Karen|Rivera|karen.rivera@outlook.com|(444) 167-9718|1755 Pine Ave|Nashville|TN|39683|10/23/23
+97|PETER|Campbell|peter.campbell@gmail.com|(614) 501-7437|1759 Oak St|Indianapolis|IN|45162|08/07/19
+98|SHARON|Mitchell|sharon.mitchell@yahoo.com|(408) 455-5718|9869 Pine Ave|St. Louis|MO|10407|02/06/22
+99|JOHN|Carter |john.carter@outlook.com|(917) 737-8811|5102 Cedar St|Baltimore|MD|41276|03/11/23
+100|Jane|Roberts|jane.roberts@gmail.com|(271) 270-4069|5542 Elm Ave|Milwaukee|WI|28590|01/22/21
