@@ -1,0 +1,21 @@
+TITLE: Digital Nomads to Corporate Remote: A Multi-Case Study of Remote Work Culture Across Five Industries
+
+AUTHORS: Andersen, N., Muller, B., & Petrov, I.
+PUBLISHED IN: Human Resource Management Review, 34(4), 100-125 (2024)
+
+METHODOLOGY: Qualitative multi-case study of 15 organizations across 5 industries, 186 in-depth interviews
+
+ABSTRACT:
+Through a multi-case study of 15 organizations across technology, healthcare, education, manufacturing, and financial services, we explore the cultural dimensions of remote work implementation. Drawing on 186 in-depth interviews with employees, managers, and executives, we identify five critical success factors for productive remote work cultures: (1) asynchronous-first communication norms, (2) outcome-based performance evaluation, (3) deliberate social infrastructure, (4) manager training in remote leadership, and (5) equitable hybrid policies that avoid proximity bias. Organizations lacking three or more of these factors reported significant productivity and morale challenges, while those with four or more reported equal or better outcomes than their pre-remote baselines.
+
+KEY FINDINGS:
+  1. Five critical success factors identified for remote work productivity
+  2. Asynchronous-first communication was the strongest single predictor of success
+  3. Outcome-based evaluation eliminated managers concerns about productivity monitoring
+  4. Proximity bias in hybrid setups was the most commonly cited equity concern
+  5. Healthcare and education faced unique challenges due to in-person service requirements
+  6. Manufacturing companies successfully adopted remote work for 35-45% of their workforce
+  7. Manager training was cited as the most impactful intervention by HR leaders
+
+CONCLUSIONS:
+Remote work productivity is less about the policy itself and more about the supporting cultural infrastructure. Organizations that invest in communication norms, evaluation frameworks, and manager training consistently achieve better outcomes than those that simply allow remote work without structural support.

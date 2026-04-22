@@ -1,0 +1,20 @@
+TITLE: The Innovation Paradox: How Remote Work Affects Team Creativity and Problem-Solving
+
+AUTHORS: Yamamoto, S., Fischer, E., & Okonkwo, C.
+PUBLISHED IN: Academy of Management Journal, 67(4), 891-920 (2024)
+
+METHODOLOGY: Longitudinal study tracking 847 teams over 18 months during and after the pandemic transition
+
+ABSTRACT:
+We investigate the impact of remote work on team-level innovation outcomes using a longitudinal dataset of 847 product development teams across 12 multinational corporations. Teams were tracked from January 2022 through June 2023 as organizations transitioned between fully remote, hybrid, and return-to-office policies. Innovation was measured through patent filings, internal innovation challenge submissions, and manager-rated creativity scores. Results show a 22% decline in breakthrough innovations among fully remote teams compared to hybrid teams, while incremental innovations remained unchanged. The decline is attributed to reduced cross-pollination of ideas and weaker weak-tie networks, not to reduced effort or engagement.
+
+KEY FINDINGS:
+  1. Breakthrough innovations declined 22% in fully remote teams vs hybrid teams
+  2. Incremental innovations showed no significant difference across work modes
+  3. Cross-functional idea sharing dropped 31% in remote settings
+  4. Weak-tie network strength declined 40% for remote workers
+  5. Structured brainstorming sessions partially mitigated the innovation gap (recovered ~40%)
+  6. Teams with prior strong relationships showed smaller innovation declines
+
+CONCLUSIONS:
+While remote work does not impair routine problem-solving or incremental innovation, it significantly reduces breakthrough innovation by weakening the weak-tie networks that facilitate cross-pollination of ideas. Organizations should invest in structured cross-team interaction programs and periodic in-person gatherings to maintain innovative capacity.

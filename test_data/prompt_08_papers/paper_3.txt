@@ -1,0 +1,21 @@
+TITLE: A Meta-Analysis of Remote Work and Employee Performance: Synthesizing Two Decades of Research
+
+AUTHORS: Rodriguez, M., & Singh, P.
+PUBLISHED IN: Psychological Bulletin, 150(1), 45-78 (2025)
+
+METHODOLOGY: Meta-analysis of 94 studies (N = 287,341) published between 2004 and 2024
+
+ABSTRACT:
+We present a comprehensive meta-analysis synthesizing 94 empirical studies examining the relationship between remote work and employee performance metrics. Our analysis encompasses 287,341 participants across 23 countries and multiple industries. The overall effect of remote work on individual performance is small but positive (d = 0.14, 95% CI [0.08, 0.20], p < 0.001). Moderator analyses reveal that the positive effect is stronger for (a) knowledge workers vs. operational roles, (b) voluntary vs. mandated remote work, and (c) partial vs. full-time remote work. Importantly, we identify significant heterogeneity in outcomes (I-squared = 78.3%), suggesting that contextual factors including management practices, technology infrastructure, and individual preferences substantially moderate the relationship.
+
+KEY FINDINGS:
+  1. Overall small positive effect of remote work on performance (d = 0.14)
+  2. Knowledge workers show larger gains than operational roles
+  3. Voluntary remote work shows stronger positive effects than mandated
+  4. Partial remote (hybrid) outperforms both full remote and full office
+  5. High heterogeneity (I-squared = 78.3%) indicates strong contextual moderation
+  6. Studies using objective performance metrics show smaller effects than self-report
+  7. Post-2020 studies show larger effects than pre-pandemic studies
+
+CONCLUSIONS:
+The evidence broadly supports a small positive effect of remote work on individual performance, but this effect is heavily dependent on implementation context. Blanket policies are unlikely to be optimal; organizations should adopt flexible approaches that account for role requirements, individual preferences, and team dynamics.

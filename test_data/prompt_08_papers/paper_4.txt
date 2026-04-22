@@ -1,0 +1,21 @@
+TITLE: Working from Home and Team Cohesion: A Randomized Controlled Trial
+
+AUTHORS: Williams, A., Thompson, J., & Lee, H.
+PUBLISHED IN: Organization Science, 35(3), 678-701 (2024)
+
+METHODOLOGY: Randomized controlled trial with 1,612 employees at a large insurance company over 9 months
+
+ABSTRACT:
+We report results from a randomized controlled trial conducted at a large insurance company (N = 1,612), where employees were randomly assigned to one of three conditions: fully in-office (control), hybrid (3 days remote), or fully remote for a 9-month period. Our primary outcome measures include objective performance metrics (cases processed, error rates, customer satisfaction scores), team cohesion (measured via sociometric surveys), and employee well-being indicators. Fully remote workers processed 4.4% more cases per week with no increase in error rates. However, team cohesion scores declined by 17% in fully remote groups compared to 6% in hybrid groups. Employee satisfaction and retention intention were highest in the hybrid condition.
+
+KEY FINDINGS:
+  1. Remote workers processed 4.4% more cases per week (objective measure)
+  2. No increase in error rates for remote or hybrid workers
+  3. Customer satisfaction scores were statistically equivalent across conditions
+  4. Team cohesion declined 17% for fully remote, 6% for hybrid groups
+  5. Employee satisfaction was highest in hybrid condition
+  6. Turnover intention was lowest in hybrid (8.2% vs 12.1% in-office vs 10.7% remote)
+  7. The cohesion decline was concentrated in newly formed teams
+
+CONCLUSIONS:
+This RCT provides causal evidence that remote work increases individual output without harming quality, but at the cost of team cohesion, particularly for newer teams. Hybrid arrangements appear to offer the best balance between productivity, cohesion, and satisfaction.
