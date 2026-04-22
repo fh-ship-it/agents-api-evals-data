@@ -1,0 +1,137 @@
+TaskFlow FAQ - Frequently Asked Questions
+==========================================
+
+Q: What is TaskFlow?
+A: TaskFlow is a cloud-based project management and team collaboration platform designed for teams of 5-500 people. It helps you organize projects, assign tasks, track progress, and collaborate in real-time.
+
+Q: How much does TaskFlow cost?
+The pricing depends on your plan:
+- Starter: $9/user/month (up to 10 users)
+- Professional: $19/user/month (up to 100 users)
+- Enterprise: Custom pricing (unlimited users)
+All plans include a 14-day free trial.
+
+Q: Can I import my data from other tools?
+A: Yes! TaskFlow supports importing from Trello, Asana, Monday.com, Jira, and generic CSV files. Go to Settings > Import Data to get started.
+
+Q: How do I invite team members?
+Go to your workspace settings, click "Members", then "Invite". You can invite by email or share an invite link. New members will receive an email with instructions to set up their account.
+
+Q: What integrations does TaskFlow support?
+We integrate with:
+* Slack (real-time notifications)
+* Google Workspace (Calendar, Drive, Docs)
+* Microsoft 365 (Teams, OneDrive, Outlook)
+* GitHub and GitLab
+* Zapier (for custom workflows)
+* Salesforce
+* REST API for custom integrations
+
+Q: Is my data secure?
+A: Yes. TaskFlow uses AES-256 encryption at rest and TLS 1.3 for data in transit. We are SOC 2 Type II certified and GDPR compliant. Data is stored in US-based AWS data centers with daily backups.
+
+Q: Can I use TaskFlow offline?
+Currently, TaskFlow requires an internet connection. However, our mobile app caches recent data so you can view (but not edit) tasks while offline. Full offline support is on our roadmap for Q3 2025.
+
+8. How do I create a project?
+Click the "+" button in the sidebar, select "New Project", choose a template or start blank, and give it a name. You can set up custom fields, statuses, and team members from the project settings.
+
+9. What are automations?
+Automations let you create rules that trigger actions automatically. For example: "When a task is moved to Done, notify the project owner and update the status report." Available on Professional and Enterprise plans.
+
+Q: How do I export my data?
+You can export projects, tasks, and reports to CSV, PDF, or JSON format. Go to the project menu and select Export. For full account data export, contact support@taskflow.io.
+
+Can I customize task statuses?
+Yes, each project can have custom statuses. Go to Project Settings > Statuses. Default statuses are To Do, In Progress, Review, and Done, but you can add, rename, reorder, or remove statuses.
+
+Q: What browsers are supported?
+We support Chrome, Firefox, Safari, and Edge (latest 2 versions). Internet Explorer is not supported.
+
+Q: Do you have a mobile app?
+A: Yes, TaskFlow is available on iOS (14+) and Android (10+). Download from the App Store or Google Play.
+
+Q: How do I set up recurring tasks?
+Open any task, click the calendar icon, and select "Make Recurring". Choose daily, weekly, monthly, or custom intervals. The next occurrence is created automatically when the current one is completed.
+
+15) What's the difference between projects and workspaces?
+A workspace is your team's top-level container. It contains multiple projects. Think of the workspace as your company, and projects as individual initiatives. Each workspace can have different members and permissions.
+
+Q: How do I use the API?
+Our REST API is available on Professional and Enterprise plans. Documentation is at api.taskflow.io/docs. You'll need to generate an API key from Settings > API > Generate Key.
+
+How can I contact support?
+- Email: support@taskflow.io
+- Live chat: Available in-app (Professional and Enterprise plans)
+- Phone: +1 (800) 555-TASK (Enterprise only)
+- Community forum: community.taskflow.io
+Response times: Starter (48h), Professional (24h), Enterprise (4h)
+
+Q: Can I set dependencies between tasks?
+A: Yes, you can create task dependencies (finish-to-start, start-to-start, etc.) by clicking "Add Dependency" on any task. Dependencies are visualized in the Gantt chart view.
+
+Q: What happens when my trial expires?
+Your account switches to a limited free tier (3 projects, 3 users). Your data is preserved for 90 days. You can upgrade at any time to restore full access.
+
+Q: Do you offer discounts for nonprofits?
+A: Yes, we offer 50% off Professional plans for registered nonprofits and educational institutions. Contact sales@taskflow.io with proof of nonprofit status.
+
+Q: How do I delete my account?
+Go to Settings > Account > Delete Account. This action is irreversible and all data will be permanently deleted after 30 days. You can also request deletion by emailing privacy@taskflow.io.
+
+Q: Can multiple people work on the same task?
+Yes, tasks can have multiple assignees. Each assignee can track their own progress and add comments. Use @mentions to notify specific team members.
+
+Q: What's the storage limit?
+Starter: 5 GB, Professional: 100 GB, Enterprise: Unlimited. File uploads are limited to 250 MB per file on all plans.
+
+Q: How do I create a report?
+Go to Reports in the sidebar. Choose from built-in templates (sprint burndown, team workload, project timeline) or create a custom report. Reports can be scheduled for automatic email delivery.
+
+25. Can I use single sign-on (SSO)?
+SSO via SAML 2.0 and OpenID Connect is available on Enterprise plans. We support Okta, Azure AD, Google Workspace, and OneLogin. Contact your account manager for setup.
+
+Q: How do I manage permissions?
+TaskFlow has role-based access control. Default roles are Owner, Admin, Member, and Guest. Admins can create custom roles with granular permissions (view, edit, delete, manage) at the workspace and project level.
+
+Q: Can I create templates?
+Yes! Any project can be saved as a template including its structure, custom fields, and automations. Go to Project Settings > Save as Template. Templates are shared across your workspace.
+
+Q: Is there a desktop app?
+We offer desktop apps for macOS and Windows. Download from taskflow.io/download. The desktop app includes all web features plus native notifications and menu bar quick-add.
+
+Q: How do version history and undo work?
+Task changes are tracked with full version history. Click the clock icon on any task to see all changes and revert to a previous version. Task deletions can be undone within 30 days from the Trash.
+
+30. What are time tracking features?
+Professional and Enterprise plans include built-in time tracking. Start a timer on any task, or manually log time. Time reports can be exported for billing or payroll purposes.
+
+Q: Can I use TaskFlow for agile/scrum?
+Yes, we have dedicated Scrum and Kanban board views. You can manage sprints, story points, and velocity tracking. Our sprint planning tools include capacity planning and backlog grooming features.
+
+Q: How do I set up notifications?
+Go to Settings > Notifications. You can customize which events trigger notifications (task assigned, comment added, due date approaching, etc.) and choose delivery channels (in-app, email, Slack, mobile push).
+
+Q: What about data residency requirements?
+Enterprise customers can choose data residency in US, EU, or Asia-Pacific. Contact your account manager to configure data residency before account setup.
+
+Q: Can I embed TaskFlow in other tools?
+Yes, we provide embeddable widgets for project status, task lists, and Gantt charts. Get embed codes from the Share menu on any view. Works with Notion, Confluence, and any platform that supports iframes.
+
+Q: What's the uptime guarantee?
+We guarantee 99.9% uptime on Professional and Enterprise plans. Check our status page at status.taskflow.io for real-time and historical uptime data.
+
+Q: How do I use the Gantt chart view?
+Select any project, then click the "Gantt" tab. Drag task bars to adjust dates, link tasks to create dependencies, and use the zoom controls to switch between day/week/month views. Critical path highlighting is available on Enterprise plans.
+
+Q: Can I create custom fields?
+Yes, custom fields (text, number, dropdown, date, checkbox, URL, person) can be added at the project or workspace level. Go to Project Settings > Custom Fields. Custom fields appear in task details and can be used for filtering and reporting.
+
+Q: How do approvals work?
+Set up approval workflows for task completion. When enabled, marking a task as Done routes it to a designated approver. Available on Professional and Enterprise plans under Project Settings > Workflows > Approvals.
+
+Q: What analytics are available?
+Dashboard analytics include: team productivity trends, project health scores, task completion rates, time-to-completion distributions, workload balance across team members, and custom KPI tracking. Enterprise plans include advanced analytics with trend forecasting.
+
+Q: Do you have an SLA for support response times?
+Starter: Best effort, typically within 48 hours. Professional: 24-hour response time during business hours. Enterprise: 4-hour response time, 24/7, with a dedicated account manager.
