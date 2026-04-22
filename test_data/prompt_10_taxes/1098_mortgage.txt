@@ -1,0 +1,17 @@
+FORM 1098: Mortgage Interest Statement — Tax Year 2024
+
+Lender: HomeBank Mortgage Corporation
+Lender TIN: 45-6789012
+Lender Address: 1200 Lending Lane, Sacramento, CA 95814
+
+Borrower: John A. Smith
+Borrower SSN: XXX-XX-1234
+Property Address: 456 Oak Avenue, San Francisco, CA 94110
+
+Box 1 - Mortgage interest received:           $18,432.67
+Box 2 - Outstanding mortgage principal:        $412,000.00
+Box 3 - Mortgage origination date:            06/15/2020
+Box 5 - Mortgage insurance premiums:           $0.00
+Box 10 - Property taxes:                       $8,765.00
+
+Loan Account Number: XXXX-XXXX-9012
